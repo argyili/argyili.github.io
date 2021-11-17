@@ -41,7 +41,7 @@ Fortress Besieged
 
 進捗報告ためのスライド
 
-<script async class="speakerdeck-embed" data-slide="1" data-id="f3e79a213102427193d7c508bdf77f02" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-slide="1" data-id="0475023755b6416e8e1d633b6a5cf170" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 <!-- <script async class="speakerdeck-embed" data-slide="1" data-id="fbc8bd68d6934f66842fdd65bead31c4" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script> -->
 
