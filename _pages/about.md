@@ -10,21 +10,22 @@ redirect_from:
 
 
 
-[CV](/files/vita_AiyiLi.pdf) [日本語CV](/files/vita_AiyiLi_jp.pdf)
+[CV](/files/vita_AiyiLi.pdf) [履歴書](/files/vita_AiyiLi_jp.pdf)
 
-Master student, Graduate School of Information Science and Technology, Osaka University, Japan
-[Bio-Inspired Networking Lab](http://www-waka.ics.es.osaka-u.ac.jp/)
+Master student, Graduate School of Information Science and Technology, Osaka University  
+[Bio-Inspired Networking Lab.](http://www-waka.ics.es.osaka-u.ac.jp/)
 
 ## Latest
 
-Planning to pursue Ph.D
+Planning to pursue Ph.D  
 Going to speak at a Japanese domestic conference
 
 ## Research
 
 **Human crowd** (New)
 
-**Shepherding**
+**Shepherding**  
 Keywords: Flocking, Swarm robotics, Multi-agent System
 Task: Multiple shepherd agents guide the sheep flock towards the goal zone cooperatively
+
 <script async class="speakerdeck-embed" data-slide="1" data-id="0475023755b6416e8e1d633b6a5cf170" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
