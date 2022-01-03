@@ -18,7 +18,7 @@ Master student, Graduate School of Information Science and Technology, Osaka Uni
 ## Latest
 
 Planning to pursue Ph.D  
-Going to speak at a Japanese domestic conference
+Going to speak at a domestic conference
 
 ## Research
 

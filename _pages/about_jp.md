@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/ja
   - /about/jp
+  - /about/jp/
   - /about/jp.html
 ---
 
