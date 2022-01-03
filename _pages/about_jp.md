@@ -25,6 +25,6 @@ redirect_from:
 
 **羊飼い**  
 キーワード：群れ、スワームロボティクス、マルチエージェントシステム  
-タスク：複数の牧羊犬が協力して羊の群れをゴールゾーンに向けて誘導します
+タスク：複数の牧羊犬たちが協力して羊の群れを目標まで誘導します
 
 <script async class="speakerdeck-embed" data-slide="1" data-id="0475023755b6416e8e1d633b6a5cf170" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
