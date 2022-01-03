@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "argyili"
+  # github           : "argyili"
   google_plus      :
   keybase          :
   instagram        :
@@ -116,7 +116,7 @@ author:
   xing             :
   youtube          :
   # wikipedia        : ""
-  leetcode-cn      : "argyi"
+  # leetcode-cn      : "argyi"
 
 # Reading Files
 include:
