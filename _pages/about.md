@@ -25,7 +25,7 @@ Going to speak at a domestic conference
 **Human crowd** (New)
 
 **Shepherding**  
-Keywords: Flocking, Swarm robotics, Multi-agent System
+Keywords: Flocking, Swarm robotics, Multi-agent System  
 Task: Multiple shepherd agents guide the sheep flock towards the goal zone cooperatively
 
 <script async class="speakerdeck-embed" data-slide="1" data-id="0475023755b6416e8e1d633b6a5cf170" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
