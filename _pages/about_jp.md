@@ -28,3 +28,16 @@ redirect_from:
 タスク：複数の牧羊犬たちが協力して羊の群れを目標まで誘導します
 
 <script async class="speakerdeck-embed" data-slide="1" data-id="0475023755b6416e8e1d633b6a5cf170" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+**経歴**  
+インターン、Sider株式会社、株式会社フィックスターズ、2021年秋  
+インターン、バックエンドチーム、ココネ株式会社、2021年秋  
+リサーチアシステント、大阪大学社会経済研究所、2021年夏  
+アルバイトプログラミング講師、今和教育、2020年冬ー  
+インターン、クライアントチーム、Shenzhen Danale Technology Co., Ltd、2019年秋
+
+**読本**  
+Computer Systems: A Programmer's Perspective  
+Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow  
+The Model Thinker: What You Need to Know to Make Data Work for You  
+Mathematics: A Very Short Introduction
