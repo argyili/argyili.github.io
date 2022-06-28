@@ -10,34 +10,19 @@ redirect_from:
   - /about/jp.html
 ---
 
+大阪大学大学院情報科学研究科の博士前期課程に在籍しています(2021-)．所属は[バイオインスパイアードネットワーキング講座](http://www-waka.ics.es.osaka-u.ac.jp/)で、指導は[小蔵先生](https://masakiogura.com/)が行っています．博士課程に進学する予定です．
 
+大阪大学[ヒューマンウェアイノベーションプログラム](https://www.humanware.osaka-u.ac.jp/)の第10期生です。現在、ロータリー米山記念奨学会から資金援助を受けています．詳しくは[履歴書](/files/vita_aiyi_ja.pdf)をご覧下さい．
 
-[CV](/files/vita_AiyiLi.pdf)　[履歴書](/files/vita_AiyiLi_jp.pdf)
-
-博士前期学生、大学院情報科学研究科、大阪大学  
-[バイオインスパイアードネットワーキング講座](http://www-waka.ics.es.osaka-u.ac.jp/)
-## 最新
-
-博士後期課程を進学希望  
-国内学会で発表予定
 ## 研究
-**人間の群集**（新規）
 
-**羊飼い**  
-キーワード：群れ、スワームロボティクス、マルチエージェントシステム  
-タスク：複数の牧羊犬たちが協力して羊の群れを目標まで誘導します
+キーワード：羊飼い，群れ誘導，マルチエージェントシステム
 
-<script async class="speakerdeck-embed" data-slide="1" data-id="0475023755b6416e8e1d633b6a5cf170" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-slide="1" data-id="6acdc1b08b174ca7a141037f2863924a" data-ratio="1.33293838862559" src="//speakerdeck.com/assets/embed.js"></script>
 
-## 経歴
-インターン、Sider株式会社、株式会社フィックスターズ、2021年秋  
-インターン、バックエンドチーム、ココネ株式会社、2021年秋  
-リサーチアシステント、大阪大学社会経済研究所、2021年夏  
-アルバイトプログラミング講師、今和教育、2020年冬ー  
-インターン、クライアントチーム、Shenzhen Danale Technology Co., Ltd、2019年秋
+## 最新情報
 
-## 読本 
-Computer Systems: A Programmer's Perspective  
-Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow  
-The Model Thinker: What You Need to Know to Make Data Work for You  
-Mathematics: A Very Short Introduction
+- 2022年6月 投稿の論文を [SICE2022](https://sice.jp/siceac/sice2022/) で受理される
+- 2022年5月 論文を [arxiv](https://arxiv.org/abs/2205.08155) にて公開
+- 2022年4月 大阪大学いちょう祭にてポスト発表
+- 2022年1月 [第34回自律分散システム・シンポジウム](https://sites.google.com/sice-das.org/das34th/) にて発表
