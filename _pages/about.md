@@ -8,37 +8,21 @@ redirect_from:
   - /about.html
 ---
 
+I am a master student at Graduate School of Information Science and Technology, Osaka University (2021-). I am affiliated at [Bio-Inspired Networking Lab.](http://www-waka.ics.es.osaka-u.ac.jp/) and supervised by Prof. [Masaki Ogura](https://masakiogura.com/). I am planning to pursue PhD course.  
 
+I am the 10th term student of [Humanware Innovation Program](https://www.humanware.osaka-u.ac.jp/) in Osaka University. I currently receive financial support from Rotary Yoneyama Memorial Foundation. For more details, please see my [CV](/files/vita_aiyi.pdf).  
 
-[CV](/files/vita_AiyiLi.pdf) [履歴書](/files/vita_AiyiLi_jp.pdf)
-
-Master student, Graduate School of Information Science and Technology, Osaka University  
-[Bio-Inspired Networking Lab.](http://www-waka.ics.es.osaka-u.ac.jp/)
-
-## Latest
-
-Planning to pursue Ph.D  
-Going to speak at a domestic conference
-
+*I am looking to collaborate on robotics experiments.*
 ## Research
 
-**Human crowd** (New)
+Keywords: Shepherding, Swarm Guidance, Multi-agent System
 
-**Shepherding**  
-Keywords: Flocking, Swarm robotics, Multi-agent System  
-Task: Multiple shepherd agents guide the sheep flock towards a goal position cooperatively
+<script async class="speakerdeck-embed" data-slide="1" data-id="6acdc1b08b174ca7a141037f2863924a" data-ratio="1.33293838862559" src="//speakerdeck.com/assets/embed.js"></script>
 
-<script async class="speakerdeck-embed" data-slide="1" data-id="0475023755b6416e8e1d633b6a5cf170" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+## Latest News
 
-## Experience  
-Internship, Sider Inc, Fixstars Corporation, Autumn 2021  
-Internship, Backend team, Cocone Corporation, Autumn 2021  
-RA, Institute of Social and Economic Research, Osaka University, Summer 2021  
-Part-time teacher, Imawa Academy, Winter 2020-  
-Internship, Client team, Shenzhen Danale Technology Co., Ltd, Autumn 2019
-
-## Reading
-Computer Systems: A Programmer's Perspective  
-Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow  
-The Model Thinker: What You Need to Know to Make Data Work for You  
-Mathematics: A Very Short Introduction
+- June 2022 Accepted by [SICE2022](https://sice.jp/siceac/sice2022/)
+- May 2022 Published at [arxiv](https://arxiv.org/abs/2205.08155)
+- April 2022 Post presentation at いちょう祭, Osaka University
+- January 2022 Presented at [第34回自律分散システム・シンポジウム](https://sites.google.com/sice-das.org/das34th/)
+<!-- Going to speak at a domestic conference -->
