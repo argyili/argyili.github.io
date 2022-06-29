@@ -22,7 +22,7 @@ redirect_from:
 
 ## 最新情報
 
-- 2022年6月 投稿の論文を [SICE2022](https://sice.jp/siceac/sice2022/) で受理される
+- 2022年6月 投稿の論文を [SICE2022](https://sice.jp/siceac/sice2022/) で採用された
 - 2022年5月 論文を [arxiv](https://arxiv.org/abs/2205.08155) にて公開
 - 2022年4月 大阪大学いちょう祭にてポスト発表
 - 2022年1月 [第34回自律分散システム・シンポジウム](https://sites.google.com/sice-das.org/das34th/) にて発表
