@@ -5,14 +5,17 @@ excerpt: "私について"
 author_profile: true
 redirect_from: 
   - /about/ja
+  - /about/ja.html
   - /about/jp
   - /about/jp/
   - /about/jp.html
 ---
 
-大阪大学大学院情報科学研究科の博士前期課程に在籍しています(2021-)．所属は[バイオインスパイアードネットワーキング講座](http://www-waka.ics.es.osaka-u.ac.jp/)で、指導は[小蔵先生](https://masakiogura.com/)が行っています．博士課程に進学する予定です．
+大阪大学大学院情報科学研究科の博士前期課程に在籍しています(2021-)．所属は[バイオインスパイアードネットワーキング講座](http://www-waka.ics.es.osaka-u.ac.jp/)で，指導は[小蔵先生](https://masakiogura.com/)が行っています．博士課程に進学する予定です．
 
-大阪大学[ヒューマンウェアイノベーションプログラム](https://www.humanware.osaka-u.ac.jp/)の第10期生です。現在、ロータリー米山記念奨学会から資金援助を受けています．詳しくは[履歴書](/files/vita_aiyi_ja.pdf)をご覧下さい．
+大阪大学[ヒューマンウェアイノベーションプログラム](https://www.humanware.osaka-u.ac.jp/)の第10期生です．現在、ロータリー米山記念奨学会から資金援助を受けています．詳しくは[履歴書](/files/vita_aiyi_ja.pdf)をご覧下さい．
+
+*ロボット実験での共同研究を希望しています．*
 
 ## 研究
 
