@@ -10,13 +10,13 @@ redirect_from:
 
 I am a master student at Graduate School of Information Science and Technology, Osaka University (2021-). I am affiliated at [Bio-Inspired Networking Lab.](http://www-waka.ics.es.osaka-u.ac.jp/) and supervised by Prof. [Masaki Ogura](https://masakiogura.com/). I am planning to pursue PhD course.  
 
-I am the 10th term student of [Humanware Innovation Program](https://www.humanware.osaka-u.ac.jp/) in Osaka University. I currently receive financial support from Rotary Yoneyama Memorial Foundation. For more details, please see my [CV](/files/vita_aiyi.pdf).  
+I am the 10th term student of [Humanware Innovation Program](https://www.humanware.osaka-u.ac.jp/) in Osaka University. I currently receive the scholarship from Rotary Yoneyama Memorial Foundation. For more details, please see my [CV](/files/vita_aiyi.pdf).  
 
-*I am looking to collaborate on robotics experiments.*
+Keywords: Modeling and Simulation, Multi-agent System, Nonlinear Control, Swarm Intelligence
+
+*I am looking forward to collaborate on robotics experiments.*
+
 ## Research
-
-Keywords: Shepherding, Swarm Guidance, Multi-agent System
-
 <script async class="speakerdeck-embed" data-slide="1" data-id="6acdc1b08b174ca7a141037f2863924a" data-ratio="1.33293838862559" src="//speakerdeck.com/assets/embed.js"></script>
 
 ## Latest News
