@@ -8,21 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student at Graduate School of Information Science and Technology, Osaka University (2021-). I am affiliated at [Bio-Inspired Networking Lab.](http://www-waka.ics.es.osaka-u.ac.jp/) and supervised by Prof. [Masaki Ogura](https://masakiogura.com/). I am planning to pursue PhD course.  
+I am a master course student at [Graduate School of Information Science and Technology](https://www.ist.osaka-u.ac.jp/english/), Osaka University (2021-2023). I am affiliated at [Bio-Inspired Networking Lab.](http://www-waka.ics.es.osaka-u.ac.jp/).
 
-I am the 10th term student of [Humanware Innovation Program](https://www.humanware.osaka-u.ac.jp/) in Osaka University. I currently receive the scholarship from Rotary Yoneyama Memorial Foundation. For more details, please see my [CV](/files/vita_aiyi.pdf).  
+I have participated in [Humanware Innovation Program](https://www.humanware.osaka-u.ac.jp/) in Osaka University. I currently receive the scholarship from [Rotary Yoneyama Memorial Foundation](http://www.rotary-yoneyama.or.jp/english/).
 
-Keywords: Modeling and Simulation, Multi-agent System, Nonlinear Control, Swarm Intelligence
-
-*I am looking forward to collaborate on robotics experiments.*
+My breif bio and contact information can be found [here](/files/vita_aiyi.pdf).  
 
 ## Research
-<script async class="speakerdeck-embed" data-slide="1" data-id="6acdc1b08b174ca7a141037f2863924a" data-ratio="1.33293838862559" src="//speakerdeck.com/assets/embed.js"></script>
+
+My research intersets are in mathematical bioinformatics. The ongoing themes include modeling and simulation of swarm intelligence, nonlinear control of swarm guidance, cooperation in multi-agent systems.
+
+I'm starting collaborative research on real data about cell clusters, and I'm also looking forward to collaborate experiments on swarm robotics.
+<!-- Keywords: Modeling and Simulation, Multi-agent System, Nonlinear Control, Swarm Intelligence -->
 
 ## Latest News
 
-- June 2022 Accepted by [SICE2022](https://sice.jp/siceac/sice2022/)
-- May 2022 Published at [arxiv](https://arxiv.org/abs/2205.08155)
-- April 2022 Post presentation at いちょう祭, Osaka University
-- January 2022 Presented at [第34回自律分散システム・シンポジウム](https://sites.google.com/sice-das.org/das34th/)
+- Nov 2022 Coauthored paper accepted for presentation at the [1st IFAC workshop on Control of Complex Systems](https://eventi.unibo.it/cosy2022)  
+- Sep 2022 Paper accecpted for presentation at the [SICE Annual Conference 2022](https://sice.jp/siceac/sice2022)  
+- May 2022 Paper uploaded at [Arxiv](https://arxiv.org/abs/2205.08155)
+<!-- - Apr 2022  Post presentation at いちょう祭, Osaka University -->
+- Jan 2022 Paper accecpted for presentation at the [34th SICE Symposium on Decentralized Autonomous Systems](https://sites.google.com/sice-das.org/das34th/)
 <!-- Going to speak at a domestic conference -->
+
+## Slides
+<script async class="speakerdeck-embed" data-slide="1" data-id="6acdc1b08b174ca7a141037f2863924a" data-ratio="1.33293838862559" src="//speakerdeck.com/assets/embed.js"></script>
