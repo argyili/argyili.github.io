@@ -23,11 +23,11 @@ I'm starting collaborative research on real data about cell clusters, and I'm al
 
 ## Latest News
 
-- Nov 2022 Coauthored paper accepted for presentation at the [1st IFAC workshop on Control of Complex Systems](https://eventi.unibo.it/cosy2022)  
-- Sep 2022 Paper accecpted for presentation at the [SICE Annual Conference 2022](https://sice.jp/siceac/sice2022)  
-- May 2022 Paper uploaded at [Arxiv](https://arxiv.org/abs/2205.08155)
+- Nov 2022　Coauthored paper accepted for presentation at the [1st IFAC workshop on Control of Complex Systems](https://eventi.unibo.it/cosy2022)  
+- Sep 2022　Paper accecpted for presentation at the [SICE Annual Conference 2022](https://sice.jp/siceac/sice2022)  
+- May 2022　Paper uploaded at [Arxiv](https://arxiv.org/abs/2205.08155)
 <!-- - Apr 2022  Post presentation at いちょう祭, Osaka University -->
-- Jan 2022 Paper accecpted for presentation at the [34th SICE Symposium on Decentralized Autonomous Systems](https://sites.google.com/sice-das.org/das34th/)
+- Jan 2022　Paper accecpted for presentation at the [34th SICE Symposium on Decentralized Autonomous Systems](https://sites.google.com/sice-das.org/das34th/)
 <!-- Going to speak at a domestic conference -->
 
 ## Slides
