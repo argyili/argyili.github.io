@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Aiyi Li"
+excerpt: "Aiyi Li"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 
 I am a master course student at [Graduate School of Information Science and Technology](https://www.ist.osaka-u.ac.jp/english/), Osaka University (2021-2023). I am affiliated at [Bio-Inspired Networking Lab.](http://www-waka.ics.es.osaka-u.ac.jp/).
 
-I have participated in [Humanware Innovation Program](https://www.humanware.osaka-u.ac.jp/) in Osaka University. I currently receive the scholarship from [Rotary Yoneyama Memorial Foundation](http://www.rotary-yoneyama.or.jp/english/).
+I have participated in [Humanware Innovation Program](https://www.humanware.osaka-u.ac.jp/en/) in Osaka University. I currently receive the scholarship from [Rotary Yoneyama Memorial Foundation](http://www.rotary-yoneyama.or.jp/english/).
 
 My breif bio and contact information can be found [here](/files/vita_aiyi.pdf).  
 
