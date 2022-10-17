@@ -1,6 +1,6 @@
 ---
 permalink: /ja/
-title: "李艾義"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
