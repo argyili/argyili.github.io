@@ -26,7 +26,7 @@ redirect_from:
 ## 最新情報
 
 - 2022年11月　共著の論文を[1st IFAC workshop on Control of Complex Systems](https://eventi.unibo.it/cosy2022)にて採録されました  
-- 2022年9月　投稿の論文を[SICE Annual Conference 2022](https://sice.jp/siceac/sice2022/)にて採録されて発表しました
+- 2022年9月　論文を[SICE Annual Conference 2022](https://sice.jp/siceac/sice2022/)にて採録されて発表しました
 - 2022年5月　論文を[Arxiv](https://arxiv.org/abs/2205.08155)にて公開しました  
 - 2022年1月　論文を[第34回自律分散システム・シンポジウム](https://sites.google.com/sice-das.org/das34th/)にて採録されて発表しました
 
