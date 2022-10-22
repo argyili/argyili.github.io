@@ -16,7 +16,7 @@ My breif bio and contact information can be found [here](/files/vita_aiyi.pdf).
 
 ## Research
 
-My research intersets are in mathematical bioinformatics. The ongoing themes include modeling and simulation of swarm intelligence, nonlinear control of swarm guidance, cooperation in multi-agent systems.
+My research interests are in mathematical bioinformatics. The ongoing themes include modeling and simulation of swarm intelligence, nonlinear control of swarm guidance, cooperation in multi-agent systems.
 
 I'm starting collaborative research on real data about cell clusters, and I'm also looking forward to collaborate experiments on swarm robotics.
 <!-- Keywords: Modeling and Simulation, Multi-agent System, Nonlinear Control, Swarm Intelligence -->
