@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Aiyi Li"
 excerpt: ""
 author_profile: true
 redirect_from: 
