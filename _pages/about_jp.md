@@ -1,7 +1,7 @@
 ---
 permalink: /ja/
 title: "李艾義"
-excerpt: ""
+excerpt: "艾義"
 author_profile: true
 redirect_from: 
   - /about/ja
