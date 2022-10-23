@@ -11,7 +11,7 @@ redirect_from:
   - /about/jp.html
 ---
 
-大阪大学大学院情報科学研究科の博士前期課程に在籍しています(2021-2023)．所属は[バイオインスパイアードネットワーキング講座](http://www-waka.ics.es.osaka-u.ac.jp/)です．
+大阪大学大学院情報科学研究科の博士前期課程に在籍しています (2021-2023)．所属は[バイオインスパイアードネットワーキング講座](http://www-waka.ics.es.osaka-u.ac.jp/)です．
 
 大阪大学[ヒューマンウェアイノベーションプログラム](https://www.humanware.osaka-u.ac.jp/)の第10期生です．2022年度は[ロータリー米山記念奨学金](http://www.rotary-yoneyama.or.jp/)を受けています．
 
