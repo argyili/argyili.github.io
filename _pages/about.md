@@ -10,17 +10,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student at [Graduate School of Information Science and Technology](https://www.ist.osaka-u.ac.jp/english/), Osaka University (2021-2023). I am affiliated at [Bio-Inspired Networking Lab.](http://www-waka.ics.es.osaka-u.ac.jp/).
+- Name: Aiyi LI
+- PhD candidate, Department of Bioinformatic Engineering, Graduate School of Information Science and Technology, Osaka University
+- Affiliated at [Bio-Inspired Networking Lab.](http://www-waka.ics.es.osaka-u.ac.jp/)
 
-I have participated in [Humanware Innovation Program](https://www.humanware.osaka-u.ac.jp/en/) in Osaka University. I currently receive the scholarship from [Rotary Yoneyama Memorial Foundation](http://www.rotary-yoneyama.or.jp/english/).
+Aiyi Li earned a master degree and received [the Award of the Graduate School of Information Science and Technology of Osaka University](https://www.ist.osaka-u.ac.jp/english/introduction/prize.html) in 2023. He also received scholarship from [Rotary Yoneyama Memorial Foundation](http://www.rotary-yoneyama.or.jp/english/) in 2022-2023.
 
-My breif bio and contact information can be found [here](/files/vita_aiyi.pdf).  
+He is starting pursuing his PhD at the same research laboratory in Osaka University. He has participated in [Humanware Innovation Program](https://www.humanware.osaka-u.ac.jp/en/) and Info \& AI Fellowship at Osaka University.
 
 ## Research
 
-My research interests are in mathematical bioinformatics. The ongoing themes include modeling and simulation of swarm intelligence, nonlinear control of swarm guidance, cooperation in multi-agent systems.
-
-I'm starting collaborative research on real data about cell clusters, and I'm also looking forward to collaborate experiments on swarm robotics.
+His research interests are in mathematical bioinformatics, swarm intelligence and robotics. Ongoing studies include modeling and simulation of multi-agent systems, swarm organization and control. He is starting collaborative research on real experiments on cell clusters and cyborg insect swarms.
 <!-- Keywords: Modeling and Simulation, Multi-agent System, Nonlinear Control, Swarm Intelligence -->
 
 ## Latest News
@@ -30,7 +30,8 @@ I'm starting collaborative research on real data about cell clusters, and I'm al
 - May 2022 - Paper uploaded at [Arxiv](https://arxiv.org/abs/2205.08155)
 <!-- - Apr 2022  Post presentation at いちょう祭, Osaka University -->
 - Jan 2022 - Paper accecpted for presentation at the [34th SICE Symposium on Decentralized Autonomous Systems](https://sites.google.com/sice-das.org/das34th/)
-<!-- Going to speak at a domestic conference -->
+
+## Publications
 
 ## Slides
 <script async class="speakerdeck-embed" data-slide="1" data-id="6acdc1b08b174ca7a141037f2863924a" data-ratio="1.33293838862559" src="//speakerdeck.com/assets/embed.js"></script>
