@@ -17,7 +17,7 @@ redirect_from:
 
 2023年に修士号を取得し，[大阪大学大学院情報科学研究科賞](https://www.ist.osaka-u.ac.jp/japanese/introduction/prize.html)を受賞しました．また，2022-2023年にロータリー米山記念財団から奨学金を授与されました．
 
-現在，大阪大学の同研究室にて博士後期課程に進学します．大阪大学では，[Humanware Innovation Program](https://www.humanware.osaka-u.ac.jp/en/)，情報AI分野フェローシップに参加しています．
+現在，大阪大学の同研究室にて博士後期課程に進学します．大阪大学では，[ヒューマンウェアイノベーション博士プログラム](https://www.humanware.osaka-u.ac.jp/en/)，情報AI分野フェローシップに参加しています．
 
 ## 研究
 
