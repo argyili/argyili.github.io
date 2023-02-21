@@ -14,7 +14,7 @@ redirect_from:
 - PhD candidate, Department of Bioinformatic Engineering, Graduate School of Information Science and Technology, Osaka University
 - Affiliated at [Bio-Inspired Networking Lab.](http://www-waka.ics.es.osaka-u.ac.jp/)
 
-Aiyi Li earned a master degree and received [the Award of the Graduate School of Information Science and Technology of Osaka University](https://www.ist.osaka-u.ac.jp/english/introduction/prize.html) in 2023. He also received scholarship from [Rotary Yoneyama Memorial Foundation](http://www.rotary-yoneyama.or.jp/english/) in 2022-2023.
+Aiyi Li earned a master degree and received [the Award of the Graduate School of Information Science and Technology of Osaka University](https://www.ist.osaka-u.ac.jp/english/introduction/prize.html) in 2023. He also received scholarship from Rotary Yoneyama Memorial Foundation in 2022-2023.
 
 He is starting his PhD studies in the same research laboratory at Osaka University. He has participated in [Humanware Innovation Program](https://www.humanware.osaka-u.ac.jp/en/) and Info & AI Fellowship at Osaka University.
 
