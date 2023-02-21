@@ -27,15 +27,11 @@ His research interests are in mathematical bioinformatics, swarm intelligence an
 
 Feb 2022 - Paper accepted for publication in <em>Frontiers in Control Engineering</em>
 
-
 Jan 2022 - Paper accepted for presentation in <em>AROB-ISBC-SWARM 2023</em>
-
-Nov 2022 - Coauthored paper presentation in <em>1st IFAC Workshop on Control of Complex Systems</em>
 
 Sep 2022 - Paper accecpted for presentation at the <em>SICE Annual Conference 2022</em>  
 
 Jan 2022 - Paper accecpted for presentation at the <em>34th SICE Symposium on Decentralized Autonomous Systems</em>  
-
 
 ## Slides
 <script async class="speakerdeck-embed" data-slide="1" data-id="6acdc1b08b174ca7a141037f2863924a" data-ratio="1.33293838862559" src="//speakerdeck.com/assets/embed.js"></script>
