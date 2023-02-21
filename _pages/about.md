@@ -12,15 +12,15 @@ redirect_from:
 
 - Name: Aiyi LI
 - PhD candidate, Department of Bioinformatic Engineering, Graduate School of Information Science and Technology, Osaka University
-- Affiliated at [Bio-Inspired Networking Lab.](http://www-waka.ics.es.osaka-u.ac.jp/)
+- Affiliated at [Bio-Inspired Networking Lab.](http://www-waka.ist.osaka-u.ac.jp/index.php/en)
 
-Aiyi Li earned a master degree and received [the Award of the Graduate School of Information Science and Technology of Osaka University](https://www.ist.osaka-u.ac.jp/english/introduction/prize.html) in 2023. He also received scholarship from Rotary Yoneyama Memorial Foundation in 2022-2023.
+Aiyi Li earned a master degree and received [Award of the Graduate School of Information Science and Technology of Osaka University](https://www.ist.osaka-u.ac.jp/english/introduction/prize.html) in 2023. He also received scholarship from Rotary Yoneyama Memorial Foundation in 2022-2023.
 
 He is starting his PhD studies in the same research laboratory at Osaka University. He has participated in [Humanware Innovation Program](https://www.humanware.osaka-u.ac.jp/en/) and Info & AI Fellowship at Osaka University.
 
 ## Research
 
-His research interests are in mathematical bioinformatics, swarm intelligence and robotics. Ongoing studies include modeling and simulation of multi-agent systems, swarm organization and control. He is starting collaborative research on real experiments on cell clusters and cyborg insect swarms.
+His research interests are in mathematical bioinformatics, swarm intelligence and robotics. Ongoing studies include modeling and simulation of multi-agent systems, swarm organization and control. He is starting collaborative research on experiments on cell clusters and cyborg insect swarms.
 <!-- Keywords: Modeling and Simulation, Multi-agent System, Nonlinear Control, Swarm Intelligence -->
 
 ## Latest News
@@ -43,7 +43,7 @@ Jan 2022 - Paper accepted for domestic presentation in <em>the 34th SICE Symposi
 
 A. Li, M. Ogura and N. Wakamiya, “Communication-free shepherding navigation with multiple steering agents,” <em>Accepted for Publication</em>
 
-### conference proceedings
+### Conference proceedings
 
 A. Li, M. Ogura and N. Wakamiya, “Proposal of a bearing-only shepherding algorithm with limited sensing capabilities”, in <em>AROB-ISBC-SWARM 2023</em>, 2023
 

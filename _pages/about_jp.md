@@ -11,17 +11,17 @@ redirect_from:
   - /about/jp.html
 ---
 
-大阪大学大学院情報科学研究科の博士前期課程に在籍しています (2021-2023)．所属は[バイオインスパイアードネットワーキング講座](http://www-waka.ics.es.osaka-u.ac.jp/)です．
+- 名前 李 艾義
+- 大阪大学大学院　情報科学研究科　バイオ情報工学専攻　博士後期課程
+- 所属：[バイオインスパイアードネットワーキング講座](http://www-waka.ist.osaka-u.ac.jp/)
 
-大阪大学[ヒューマンウェアイノベーションプログラム](https://www.humanware.osaka-u.ac.jp/)の第10期生です．2022年度[ロータリー米山記念奨学金](http://www.rotary-yoneyama.or.jp/)を受けています．
+2023年に修士号を取得し，[大阪大学大学院情報科学研究科賞](https://www.ist.osaka-u.ac.jp/japanese/introduction/prize.html)を受賞しました．また，2022-2023年にロータリー米山記念財団から奨学金を授与されました．
 
-経歴と連絡先は[こちら](/files/vita_aiyi_ja.pdf)です．
+現在，大阪大学の同研究室にて博士後期課程に進学します．大阪大学では，[Humanware Innovation Program](https://www.humanware.osaka-u.ac.jp/en/)，情報AI分野フェローシップに参加しています．
 
 ## 研究
 
-私は興味がある研究分野は数理生物情報学です．現在のテーマは，群知能のモデリングとシミュレーション，群誘導の非線形制御，マルチエージェントシステムの協調などです．
-
-細胞クラスターに関する実データを用いた共同研究を始めています．また，群ロボティクスに関する共同実験も期待しています．
+研究テーマは，数理バイオインフォマティクス，群知能，ロボティクス．現在進行中の研究は，マルチエージェントシステムのモデリングとシミュレーション，群れの組織化と制御．細胞クラスターやサイボーグ昆虫の群れに関する実実験の共同研究を開始している．
 
 ## 最新情報
 
@@ -32,3 +32,23 @@ redirect_from:
 
 ## スライド
 <script async class="speakerdeck-embed" data-slide="1" data-id="6acdc1b08b174ca7a141037f2863924a" data-ratio="1.33293838862559" src="//speakerdeck.com/assets/embed.js"></script>
+
+## Publications
+
+### 査読付き論文
+
+A. Li, M. Ogura and N. Wakamiya, “Communication-free shepherding navigation with multiple steering agents,” <em>Accepted for Publication</em>
+
+### 査読付き国際会議論文
+
+A. Li, M. Ogura and N. Wakamiya, “Proposal of a bearing-only shepherding algorithm with limited sensing capabilities”, in <em>AROB-ISBC-SWARM 2023</em>, 2023
+
+Y. Deng, M. Ogura, A. Li and N. Wakamiya, ”Shepherding control for separating a single agent from a swarm,” in <em>1st IFAC Workshop on Control of Complex Systems</em>, 2022
+
+A. Li, M. Ogura and N. Wakamiya, “Proposal of farthest-agent targeting algorithm with indirect chasing,” in <em>2022 SICE Annual Conference</em>, 2022
+
+### 学会発表
+
+Y. Deng, M. Ogura, A. Li and N. Wakamiya, ”Shepherding algorithm for separating a single agent from swarm,” in <em>第35回自律分散システム・シンポジウム</em>, 2023
+
+A. Li, M. Ogura and N. Wakamiya, ”A distributed approach for shepherding with multiple steering agents,” in <em>第34回自律分散システム・シンポジウム</em>, 2022
