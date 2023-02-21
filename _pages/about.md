@@ -16,7 +16,7 @@ redirect_from:
 
 Aiyi Li earned a master degree and received [the Award of the Graduate School of Information Science and Technology of Osaka University](https://www.ist.osaka-u.ac.jp/english/introduction/prize.html) in 2023. He also received scholarship from [Rotary Yoneyama Memorial Foundation](http://www.rotary-yoneyama.or.jp/english/) in 2022-2023.
 
-He is starting pursuing his PhD at the same research laboratory in Osaka University. He has participated in [Humanware Innovation Program](https://www.humanware.osaka-u.ac.jp/en/) and Info \& AI Fellowship at Osaka University.
+He is starting pursuing his PhD at the same research laboratory in Osaka University. He has participated in [Humanware Innovation Program](https://www.humanware.osaka-u.ac.jp/en/) and Info & AI Fellowship at Osaka University.
 
 ## Research
 
