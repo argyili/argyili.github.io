@@ -35,8 +35,9 @@ redirect_from:
 
 2022年1月　論文を <em>第34回自律分散システム・シンポジウム</em> にて発表しました
 
-## スライド
-<script async class="speakerdeck-embed" data-slide="1" data-id="6acdc1b08b174ca7a141037f2863924a" data-ratio="1.33293838862559" src="//speakerdeck.com/assets/embed.js"></script>
+<!-- ## スライド -->
+
+<!-- <script async class="speakerdeck-embed" data-slide="1" data-id="6acdc1b08b174ca7a141037f2863924a" data-ratio="1.33293838862559" src="//speakerdeck.com/assets/embed.js"></script> -->
 
 ## Publications
 

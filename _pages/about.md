@@ -35,9 +35,9 @@ Sep 2022 - Paper accepted for presentation in <em>SICE Annual Conference 2022</e
 
 Jan 2022 - Paper accepted for domestic presentation in <em>the 34th SICE Symposium on Decentralized Autonomous Systems</em>  
 
-## Slides
+<!-- ## Slides -->
 
-<script async class="speakerdeck-embed" data-slide="1" data-id="6acdc1b08b174ca7a141037f2863924a" data-ratio="1.33293838862559" src="//speakerdeck.com/assets/embed.js"></script>
+<!-- <script async class="speakerdeck-embed" data-slide="1" data-id="6acdc1b08b174ca7a141037f2863924a" data-ratio="1.33293838862559" src="//speakerdeck.com/assets/embed.js"></script> -->
 
 ## Publications
 
