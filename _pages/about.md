@@ -25,8 +25,9 @@ His research interests are in mathematical bioinformatics, swarm intelligence an
 
 ## Latest News
 
-- 
-- Nov 2022 - Coauthored paper accepted for presentation at the [1st IFAC Workshop on Control of Complex Systems](https://eventi.unibo.it/cosy2022)  
+- Feb 2022 - Paper accepted for publication in <em>Frontiers in Control Engineering</em>
+- Jan 2022 - Paper accepted for presentation in AROB-ISBC-SWARM 2023
+- Nov 2022 - Coauthored paper presentation in 1st IFAC Workshop on Control of Complex Systems
 - Sep 2022 - Paper accecpted for presentation at the [SICE Annual Conference 2022](https://sice.jp/siceac/sice2022)  
 - May 2022 - Paper uploaded at [Arxiv](https://arxiv.org/abs/2205.08155)
 <!-- - Apr 2022  Post presentation at いちょう祭, Osaka University -->
