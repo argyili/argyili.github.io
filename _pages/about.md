@@ -25,6 +25,8 @@ His research interests are in mathematical bioinformatics, swarm intelligence an
 
 ## Latest News
 
+Feb 2023 - Master's Thesis Presentation
+
 Feb 2023 - Paper accepted for publication in <em>Frontiers in Control Engineering</em>
 
 Jan 2023 - Paper accepted for presentation in <em>AROB-ISBC-SWARM 2023</em>

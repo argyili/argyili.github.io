@@ -11,8 +11,8 @@ redirect_from:
   - /about/jp.html
 ---
 
-- 名前 李 艾義
-- 大阪大学大学院　情報科学研究科　バイオ情報工学専攻　博士後期課程
+- 名前：李 艾義
+- 大阪大学大学院 情報科学研究科バイオ情報工学専攻 博士後期課程
 - 所属：[バイオインスパイアードネットワーキング講座](http://www-waka.ist.osaka-u.ac.jp/)
 
 2023年に修士号を取得し，[大阪大学大学院情報科学研究科賞](https://www.ist.osaka-u.ac.jp/japanese/introduction/prize.html)を受賞しました．また，2022-2023年にロータリー米山記念財団から奨学金を授与されました．
@@ -25,10 +25,15 @@ redirect_from:
 
 ## 最新情報
 
-- 2022年11月　共著の論文を[1st IFAC Workshop on Control of Complex Systems](https://eventi.unibo.it/cosy2022)にて採録されました  
-- 2022年9月　論文を[SICE Annual Conference 2022](https://sice.jp/siceac/sice2022/)にて採録されて発表しました
-- 2022年5月　論文を[Arxiv](https://arxiv.org/abs/2205.08155)にて公開しました  
-- 2022年1月　論文を[第34回自律分散システム・シンポジウム](https://sites.google.com/sice-das.org/das34th/)にて採録されて発表しました
+2023年2月　修士論文発表
+
+2023年2月　論文を <em>Frontiers in Control Engineering</em> にて採択されました
+
+2023年1月　論文を <em>AROB-ISBC-SWARM 2023</em> にて採録されて発表しました
+
+2022年9月　論文を <em>SICE Annual Conference 2022</em> にて採録されて発表しました
+
+2022年1月　論文を <em>第34回自律分散システム・シンポジウム</em> にて発表しました
 
 ## スライド
 <script async class="speakerdeck-embed" data-slide="1" data-id="6acdc1b08b174ca7a141037f2863924a" data-ratio="1.33293838862559" src="//speakerdeck.com/assets/embed.js"></script>
