@@ -39,6 +39,10 @@ Jan 2022 - Paper accepted for domestic presentation in <em>the 34th SICE Symposi
 
 <!-- <script async class="speakerdeck-embed" data-slide="1" data-id="6acdc1b08b174ca7a141037f2863924a" data-ratio="1.33293838862559" src="//speakerdeck.com/assets/embed.js"></script> -->
 
+## Awards
+
+Representative of the Graduate School of Information Science and Technology on The Graduation Ceremony and Graduate School Commencement Ceremony for the 2022-2023 academic year (Scheduled on stage)
+
 ## Publications
 
 ### Journal articles
@@ -55,8 +59,10 @@ A. Li, M. Ogura and N. Wakamiya, “Proposal of farthest-agent targeting algorit
 
 ### Domestic presentations
 
+A. Li, M. Ogura, and N. Wakamiya, “Evaluation of applicability of a bearing-only shepherding algorithm to various initial placements,” <em>第67回システム制御情報学会研究発表講演会（発表予定）</em>, 2023.
+
 秋口敬, 小蔵正輝, 李艾義, and 若宮直紀, “最遠個体追跡法に着想を得たリーダー型群れ誘導アルゴリズムの開発と評価,” <em>電子情報通信学会システム数理と応用研究会（発表予定）</em>, 2023.
 
-Y. Deng, M. Ogura, A. Li and N. Wakamiya, ”Shepherding algorithm for separating a single agent from swarm,” in <em>35th SICE DAS</em>, 2023.
+Y. Deng, M. Ogura, A. Li and N. Wakamiya, ”Shepherding algorithm for separating a single agent from swarm,” in <em>第35回自律分散システム・シンポジウム</em>, 2023.
 
-A. Li, M. Ogura and N. Wakamiya, ”A distributed approach for shepherding with multiple steering agents,” in <em>34th SICE DAS</em>, 2022.
+A. Li, M. Ogura and N. Wakamiya, ”A distributed approach for shepherding with multiple steering agents,” in <em>第34回自律分散システム・シンポジウム</em>, 2022.

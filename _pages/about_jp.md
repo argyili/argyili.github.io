@@ -39,7 +39,11 @@ redirect_from:
 
 <!-- <script async class="speakerdeck-embed" data-slide="1" data-id="6acdc1b08b174ca7a141037f2863924a" data-ratio="1.33293838862559" src="//speakerdeck.com/assets/embed.js"></script> -->
 
-## Publications
+## 受賞
+
+令和4年度 大阪大学卒業式・大学院学位記授与式の情報科学研究科代表（登壇予定）
+
+## 業績
 
 ### 査読付き論文
 
@@ -54,6 +58,8 @@ Y. Deng, M. Ogura, A. Li and N. Wakamiya, ”Shepherding control for separating 
 A. Li, M. Ogura and N. Wakamiya, “Proposal of farthest-agent targeting algorithm with indirect chasing,” in <em>2022 SICE Annual Conference</em>, 2022.
 
 ### 学会発表
+
+A. Li, M. Ogura, and N. Wakamiya, “Evaluation of applicability of a bearing-only shepherding algorithm to various initial placements,” <em>第67回システム制御情報学会研究発表講演会（発表予定）</em>, 2023.
 
 秋口敬, 小蔵正輝, 李艾義, and 若宮直紀, “最遠個体追跡法に着想を得たリーダー型群れ誘導アルゴリズムの開発と評価,” <em>電子情報通信学会システム数理と応用研究会（発表予定）</em>, 2023. 
 
