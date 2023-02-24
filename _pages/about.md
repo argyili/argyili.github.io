@@ -55,7 +55,7 @@ A. Li, M. Ogura and N. Wakamiya, “Proposal of farthest-agent targeting algorit
 
 ### Domestic presentations
 
-秋口敬, 小蔵正輝, 李艾義, and 若宮直紀, “最遠個体追跡法に着想を得たリーダー型群れ誘導アルゴリズムの開発と評価,” 電子情報通信学会システム数理と応用研究会（発表予定）, 2023. 
+秋口敬, 小蔵正輝, 李艾義, and 若宮直紀, “最遠個体追跡法に着想を得たリーダー型群れ誘導アルゴリズムの開発と評価,” <em>電子情報通信学会システム数理と応用研究会（発表予定）</em>, 2023. 
 
 Y. Deng, M. Ogura, A. Li and N. Wakamiya, ”Shepherding algorithm for separating a single agent from swarm,” in <em>35th SICE DAS</em>, 2023
 
