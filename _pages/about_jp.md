@@ -43,18 +43,20 @@ redirect_from:
 
 ### 査読付き論文
 
-A. Li, M. Ogura and N. Wakamiya, “Communication-free shepherding navigation with multiple steering agents,” <em>Accepted for Publication</em>
+A. Li, M. Ogura and N. Wakamiya, “Communication-free shepherding navigation with multiple steering agents,” <em>Frontiers in Control Engineering</em>, vol. 4, 2023.
 
 ### 査読付き国際会議論文
 
-A. Li, M. Ogura and N. Wakamiya, “Proposal of a bearing-only shepherding algorithm with limited sensing capabilities”, in <em>AROB-ISBC-SWARM 2023</em>, 2023
+A. Li, M. Ogura and N. Wakamiya, “Proposal of a bearing-only shepherding algorithm with limited sensing capabilities”, in <em>AROB-ISBC-SWARM 2023</em>, 2023.
 
-Y. Deng, M. Ogura, A. Li and N. Wakamiya, ”Shepherding control for separating a single agent from a swarm,” in <em>1st IFAC Workshop on Control of Complex Systems</em>, 2022
+Y. Deng, M. Ogura, A. Li and N. Wakamiya, ”Shepherding control for separating a single agent from a swarm,” in <em>1st IFAC Workshop on Control of Complex Systems</em>, 2022.
 
-A. Li, M. Ogura and N. Wakamiya, “Proposal of farthest-agent targeting algorithm with indirect chasing,” in <em>2022 SICE Annual Conference</em>, 2022
+A. Li, M. Ogura and N. Wakamiya, “Proposal of farthest-agent targeting algorithm with indirect chasing,” in <em>2022 SICE Annual Conference</em>, 2022.
 
 ### 学会発表
 
-Y. Deng, M. Ogura, A. Li and N. Wakamiya, ”Shepherding algorithm for separating a single agent from swarm,” in <em>第35回自律分散システム・シンポジウム</em>, 2023
+秋口敬, 小蔵正輝, 李艾義, and 若宮直紀, “最遠個体追跡法に着想を得たリーダー型群れ誘導アルゴリズムの開発と評価,” 電子情報通信学会システム数理と応用研究会（発表予定）, 2023.
 
-A. Li, M. Ogura and N. Wakamiya, ”A distributed approach for shepherding with multiple steering agents,” in <em>第34回自律分散システム・シンポジウム</em>, 2022
+Y. Deng, M. Ogura, A. Li and N. Wakamiya, ”Shepherding algorithm for separating a single agent from swarm,” in <em>第35回自律分散システム・シンポジウム</em>, 2023.
+
+A. Li, M. Ogura and N. Wakamiya, ”A distributed approach for shepherding with multiple steering agents,” in <em>第34回自律分散システム・シンポジウム</em>, 2022.

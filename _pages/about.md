@@ -43,7 +43,7 @@ Jan 2022 - Paper accepted for domestic presentation in <em>the 34th SICE Symposi
 
 ### Journal articles
 
-A. Li, M. Ogura and N. Wakamiya, “Communication-free shepherding navigation with multiple steering agents,” <em>Accepted for Publication</em>
+A. Li, M. Ogura and N. Wakamiya, “Communication-free shepherding navigation with multiple steering agents,” <em>Frontiers in Control Engineering</em>, vol. 4, 2023.
 
 ### Conference proceedings
 
@@ -54,6 +54,8 @@ Y. Deng, M. Ogura, A. Li and N. Wakamiya, ”Shepherding control for separating 
 A. Li, M. Ogura and N. Wakamiya, “Proposal of farthest-agent targeting algorithm with indirect chasing,” in <em>2022 SICE Annual Conference</em>, 2022
 
 ### Domestic presentations
+
+秋口敬, 小蔵正輝, 李艾義, and 若宮直紀, “最遠個体追跡法に着想を得たリーダー型群れ誘導アルゴリズムの開発と評価,” 電子情報通信学会システム数理と応用研究会（発表予定）, 2023. 
 
 Y. Deng, M. Ogura, A. Li and N. Wakamiya, ”Shepherding algorithm for separating a single agent from swarm,” in <em>35th SICE DAS</em>, 2023
 
