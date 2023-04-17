@@ -22,8 +22,7 @@ redirect_from:
 
 研究分野は，バイオインフォマティクス，マルチエージェントシステム，知能学などあります．現在，主に群れシステムのシミュレーションと羊飼い群制御に研究しています．また，細胞集団やサイボーグ昆虫スワームに関する共同研究に参加しています．
 
-![Frontiers論文のイラスト](../assets/illust_frontiers.pdf){:width="50%"}
-Frontiers論文のイラスト
+![Frontiers論文のイラスト](/assets/illust_frontiers.pdf){:width="50%"}
 ## 最新情報
 
 2023年2月　修士論文提出

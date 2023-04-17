@@ -24,8 +24,7 @@ He has received his master degree in the same research laboratory in 2023 and wa
 His research interests lie the field of mathematical bioinformatics, multi-agent System and informatics. Currently, his work focuses on simulating swarm systems and exploring shepherding-type swarm control. He is participating collaborative research on cell clusters and cyborg insect swarms.
 <!-- Keywords: Modeling and Simulation, Multi-agent System, Nonlinear Control, Swarm Intelligence -->
 
-![Illustration of the Frontiers paper](../assets/illust_frontiers.pdf){:width="50%"}
-Illustration of the Frontiers paper
+![Illustration of the Frontiers paper](/assets/illust_frontiers.pdf){:width="50%"}
 
 ## Latest News
 
