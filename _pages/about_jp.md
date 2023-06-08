@@ -14,9 +14,9 @@ redirect_from:
 - 大阪大学大学院 情報科学研究科バイオ情報工学専攻 博士後期課程
 - 所属：バイオインスパイアードネットワーキング講座 [\[link\]](http://www-waka.ist.osaka-u.ac.jp/index.php)
 
-大阪大学のヒューマンウェアイノベーションプログラム [\[link\]](https://www.humanware.osaka-u.ac.jp) およびInfo & AI Fellowshipに参加しています．
+2023年，同研究室で修士号を取得し，大阪大学情報科学研究科賞を受賞しました．また，2022-2023年度にはロータリー米山記念奨学金を受け取りました．
 
-同じ研究室で修士号を取得し，2023年には大阪大学情報科学研究科賞を受賞しました．また，2022-2023年度にはロータリー米山記念奨学金を受け取りました．
+大阪大学のヒューマンウェアイノベーションプログラム [\[link\]](https://www.humanware.osaka-u.ac.jp) に参加しています．
 
 ## 研究
 
@@ -25,15 +25,17 @@ redirect_from:
 ![Frontiers論文のイラスト](/assets/illust_frontiers.jpg){:width="60%"}
 ## 最新情報
 
+2023年5月　共著の論文を <em>SMC 2023</em> にて採録される予定
+
 2023年2月　修士論文提出
 
-2023年2月　論文を <em>Frontiers in Control Engineering</em> にて採択されました
+2023年2月　論文を <em>Frontiers in Control Engineering</em> にて採択された
 
-2023年1月　論文を <em>AROB-ISBC-SWARM 2023</em> にて採録されて発表しました
+2023年1月　論文を <em>AROB-ISBC-SWARM 2023</em> にて採録されて発表した
 
-2022年9月　論文を <em>SICE Annual Conference 2022</em> にて採録されて発表しました
+2022年9月　論文を <em>SICE Annual Conference 2022</em> にて採録されて発表した
 
-2022年1月　論文を <em>第34回自律分散システム・シンポジウム</em> にて発表しました
+2022年1月　論文を <em>第34回自律分散システム・シンポジウム</em> にて発表した
 
 <!-- ## スライド -->
 
@@ -41,9 +43,8 @@ redirect_from:
 
 ## 受賞
 
-- 令和4年度 大阪大学卒業式・大学院学位記授与式の情報科学研究科代表
 - 令和4年度大阪大学情報科学研究科賞
-- 計測自動制御学会SICE優秀学生賞
+- 令和4年度計測自動制御学会SICE優秀学生賞
 
 ## 業績
 
@@ -53,6 +54,8 @@ A. Li, M. Ogura and N. Wakamiya, “Communication-free shepherding navigation wi
 
 ### 査読付き国際会議論文
 
+Y. Deng, M. Ogura, A. Li, and N. Wakamiya, ”Collision-free shepherding control of a single target within a swarm,” in <em>2023 IEEE International Conference on Systems, Man, and Cybernetics (accepted)</em>, 2023.
+
 A. Li, M. Ogura, and N. Wakamiya, “Proposal of a bearing-only shepherding algorithm with limited sensing capabilities”, in <em>AROB-ISBC-SWARM 2023</em>, pp. GS34-1, 2023.
 
 Y. Deng, M. Ogura, A. Li, and N. Wakamiya, ”Shepherding control for separating a single agent from a swarm,” in <em>1st IFAC Workshop on Control of Complex Systems</em>, pp. 217-222, 2022.
@@ -61,7 +64,7 @@ A. Li, M. Ogura, and N. Wakamiya, “Proposal of farthest-agent targeting algori
 
 ### 学会発表
 
-A. Li, M. Ogura, and N. Wakamiya, “Evaluation of applicability of a bearing-only shepherding algorithm to various initial placements,” <em>第67回システム制御情報学会研究発表講演会（発表予定）</em>, 2023.
+A. Li, M. Ogura, and N. Wakamiya, “Evaluation of applicability of a bearing-only shepherding algorithm to various initial placements,” <em>第67回システム制御情報学会研究発表講演会</em>, pp. 251-3, 2023.
 
 秋口敬, 小蔵正輝, 李艾義, and 若宮直紀, “最遠個体追跡法に着想を得たリーダー型群れ誘導アルゴリズムの開発と評価,” <em>信学技報</em>, vol. 122, no. 435, MSS2022-94, pp. 150-155, 2023.
 

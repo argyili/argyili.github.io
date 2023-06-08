@@ -15,9 +15,9 @@ redirect_from:
 - Doctoral student, Department of Bioinformatic Engineering, Graduate School of Information Science and Technology, Osaka University
 - Affiliated at Bio-Inspired Networking Lab. [\[link\]](http://www-waka.ist.osaka-u.ac.jp/index.php/en)
 
-He has participated in Humanware Innovation Program [\[link\]](https://www.humanware.osaka-u.ac.jp/en/) and Info & AI Fellowship at Osaka University.
+He has received his master degree in the same research laboratory and was awarded the Award of the Graduate School of Information Science and Technology of Osaka University in 2023. Additionaly, he was the recipient of the Rotary Yoneyama Memorial Foundation Scholarship in 2022-2023.
 
-He has received his master degree in the same research laboratory in 2023 and was awarded the Award of the Graduate School of Information Science and Technology of Osaka University. Additionaly, he was the recipient of the Rotary Yoneyama Memorial Foundation Scholarship in 2022-2023.
+He has participated in Humanware Innovation Program [\[link\]](https://www.humanware.osaka-u.ac.jp/en/) at Osaka University.
 
 ## Research
 
@@ -27,6 +27,8 @@ His research interests lie the field of mathematical bioinformatics, multi-agent
 ![Illustration of the Frontiers paper](/assets/illust_frontiers.jpg){:width="60%"}
 
 ## Latest News
+
+May 2023 - Coauthored Paper accepted for presentation in <em>SMC 2023</em>
 
 Feb 2023 - Master's Thesis
 
@@ -44,9 +46,8 @@ Jan 2022 - Presentation in <em>the 34th SICE Symposium on Decentralized Autonomo
 
 ## Awards
 
-- Representative of the Graduate School of Information Science and Technology on The Graduation Ceremony and Graduate School Commencement Ceremony.
-- The Award of the Graduate School of Information Science and Technology of Osaka University.
-- The SICE Student Award of the Society of Instrument and Control Engineers.
+- The Award of the Graduate School of Information Science and Technology of Osaka University in 2023
+- The SICE Student Award of the Society of Instrument and Control Engineers in 2023
 
 ## Publications
 
@@ -56,6 +57,8 @@ A. Li, M. Ogura and N. Wakamiya, “Communication-free shepherding navigation wi
 
 ### Conference proceedings
 
+Y. Deng, M. Ogura, A. Li, and N. Wakamiya, ”Collision-free shepherding control of a single target within a swarm,” in <em>2023 IEEE International Conference on Systems, Man, and Cybernetics (accepted)</em>, 2023.
+
 A. Li, M. Ogura, and N. Wakamiya, “Proposal of a bearing-only shepherding algorithm with limited sensing capabilities”, in <em>AROB-ISBC-SWARM 2023</em>, pp. GS34-1, 2023.
 
 Y. Deng, M. Ogura, A. Li, and N. Wakamiya, ”Shepherding control for separating a single agent from a swarm,” in <em>1st IFAC Workshop on Control of Complex Systems</em>, pp. 217-222, 2022.
@@ -64,7 +67,7 @@ A. Li, M. Ogura, and N. Wakamiya, “Proposal of farthest-agent targeting algori
 
 ### Domestic presentations
 
-A. Li, M. Ogura, and N. Wakamiya, “Evaluation of applicability of a bearing-only shepherding algorithm to various initial placements,” <em>第67回システム制御情報学会研究発表講演会（発表予定）</em>, 2023.
+A. Li, M. Ogura, and N. Wakamiya, “Evaluation of applicability of a bearing-only shepherding algorithm to various initial placements,” <em>第67回システム制御情報学会研究発表講演会</em>, pp. 251-3, 2023.
 
 秋口敬, 小蔵正輝, 李艾義, and 若宮直紀, “最遠個体追跡法に着想を得たリーダー型群れ誘導アルゴリズムの開発と評価,” <em>信学技報</em>, vol. 122, no. 435, MSS2022-94, pp. 150-155, 2023.
 
