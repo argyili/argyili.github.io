@@ -21,12 +21,14 @@ He has participated in Humanware Innovation Program [\[link\]](https://www.human
 
 ## Research
 
-His research interests lie the field of mathematical bioinformatics, multi-agent System and informatics. Currently, his work focuses on simulating swarm systems and exploring shepherding-type swarm control. He is participating collaborative research on cell clusters and cyborg insect swarms.
+Currently, his work focuses on studying swarm systems and swarm control approaches. His research interests include multi-agent system, nonlinear control, modeling and simulation, and learning. Additionally, he is participating collaborative research on the applications of cell clusters, cyborg insect swarms, and UAV drones.
 <!-- Keywords: Modeling and Simulation, Multi-agent System, Nonlinear Control, Swarm Intelligence -->
 
 ![Illustration of the Frontiers paper](/assets/illust_frontiers.jpg){:width="60%"}
 
 ## Latest News
+
+June 2023 - Grant for Humanware student driven interdisciplinary research "リーダードローンによるドローン群の協調運搬システムの提案" accepted
 
 May 2023 - Coauthored Paper accepted for presentation in <em>SMC 2023</em>
 
