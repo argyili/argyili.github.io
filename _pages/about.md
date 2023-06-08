@@ -28,7 +28,7 @@ Currently, his work focuses on studying swarm systems and swarm control approach
 
 ## Latest News
 
-June 2023 - Grant for Humanware student driven interdisciplinary research "リーダードローンによるドローン群の協調運搬システムの提案" accepted
+June 2023 - Grant for Humanware student driven interdisciplinary research "Cooperative transport system for drone swarms using leader drones" accepted
 
 May 2023 - Coauthored Paper accepted for presentation in <em>SMC 2023</em>
 
