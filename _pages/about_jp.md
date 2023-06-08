@@ -27,15 +27,15 @@ redirect_from:
 
 2023年6月　ヒューマンウェア学生主体融合領域研究「リーダードローンによるドローン群の協調運搬システムの提案」を採択された
 
-2023年5月　共著の論文を <em>SMC 2023</em> にて採録された
+2023年5月　共著の論文を <em>SMC 2023</em> にて採択された
 
 2023年2月　修士論文提出
 
-2023年2月　論文を <em>Frontiers in Control Engineering</em> にて採択された
+2023年2月　論文を <em>Frontiers in Control Engineering</em> にて採録された
 
-2023年1月　論文を <em>AROB-ISBC-SWARM 2023</em> にて採録されて発表した
+2023年1月　論文を <em>AROB-ISBC-SWARM 2023</em> にて採択されて発表した
 
-2022年9月　論文を <em>SICE Annual Conference 2022</em> にて採録されて発表した
+2022年9月　論文を <em>SICE Annual Conference 2022</em> にて採択されて発表した
 
 2022年1月　論文を <em>第34回自律分散システム・シンポジウム</em> にて発表した
 
