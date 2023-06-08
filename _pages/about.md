@@ -24,7 +24,7 @@ He has participated in Humanware Innovation Program [\[link\]](https://www.human
 Currently, his work focuses on studying swarm systems and swarm control approaches. His research interests include multi-agent system, nonlinear control, modeling and simulation, and learning. Additionally, he is participating collaborative research on the applications of cell clusters, cyborg insect swarms, and UAV drones.
 <!-- Keywords: Modeling and Simulation, Multi-agent System, Nonlinear Control, Swarm Intelligence -->
 
-![Illustration of the Frontiers paper](/assets/illust_frontiers.jpg){:width="60%"}
+![Illustration of the Frontiers paper](/assets/illust_frontiers.jpg){:width="50%"}
 
 ## Latest News
 
