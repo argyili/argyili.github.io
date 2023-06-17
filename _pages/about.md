@@ -29,19 +29,19 @@ Currently, I focus on studying swarm systems and swarm control approaches. I als
 
 ## Latest News
 
-Jun 2023 - Grant for Humanware student driven interdisciplinary research "Cooperative transport system for drone swarms using leader drones" accepted
+- Jun 2023 - Grant for Humanware student driven interdisciplinary research "Cooperative transport system for drone swarms using leader drones" accepted
 
-May 2023 - Coauthored Paper accepted for presentation in <em>[IEEE SMC 2023](https://ieeesmc2023.org/)</em>
+- May 2023 - Coauthored Paper accepted for presentation in <em>[IEEE SMC 2023](https://ieeesmc2023.org/)</em>
 
-Feb 2023 - Master's Thesis submitted
+- Feb 2023 - Master's Thesis submitted
 
-Feb 2023 - Paper accepted for publication in <em>[Frontiers in Control Engineering](https://www.frontiersin.org/articles/10.3389/fcteg.2023.989232/full)</em>
+- Feb 2023 - Paper accepted for publication in <em>[Frontiers in Control Engineering](https://www.frontiersin.org/articles/10.3389/fcteg.2023.989232/full)</em>
 
-Jan 2023 - Paper accepted for presentation in <em>[AROB-ISBC-SWARM 2023](https://isarob.org/symposium/)</em>
+- Jan 2023 - Paper accepted for presentation in <em>[AROB-ISBC-SWARM 2023](https://isarob.org/symposium/)</em>
 
-Sep 2022 - Paper accepted for Presentation in <em>[SICE Annual Conference 2022](https://sice.jp/siceac/sice2022/)</em>  
+- Sep 2022 - Paper accepted for Presentation in <em>[SICE Annual Conference 2022](https://sice.jp/siceac/sice2022/)</em>  
 
-Jan 2022 - Presentation in <em>[the 34th SICE Symposium on Decentralized Autonomous Systems](https://sites.google.com/sice-das.org/das34th/)</em>  
+- Jan 2022 - Presentation in <em>[the 34th SICE Symposium on Decentralized Autonomous Systems](https://sites.google.com/sice-das.org/das34th/)</em>  
 
 <!-- ## Slides -->
 

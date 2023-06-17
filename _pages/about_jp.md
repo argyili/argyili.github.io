@@ -27,19 +27,19 @@ redirect_from:
 
 ## 最新情報
 
-2023年6月　ヒューマンウェア学生主体融合領域研究「リーダードローンによるドローン群の協調運搬システムの提案」を採択された
+- 2023年6月　ヒューマンウェア学生主体融合領域研究「リーダードローンによるドローン群の協調運搬システムの提案」を採択された
 
-2023年5月　共著の論文を [IEEE SMC 2023](https://ieeesmc2023.org/) にて採択された
+- 2023年5月　共著の論文を [IEEE SMC 2023](https://ieeesmc2023.org/) にて採択された
 
-2023年2月　修士学位論文提出
+- 2023年2月　修士学位論文提出
 
-2023年2月　論文を [Frontiers in Control Engineering](https://www.frontiersin.org/articles/10.3389/fcteg.2023.989232/full) にて採録された
+- 2023年2月　論文を [Frontiers in Control Engineering](https://www.frontiersin.org/articles/10.3389/fcteg.2023.989232/full) にて採録された
 
-2023年1月　論文を [AROB-ISBC-SWARM 2023](https://isarob.org/symposium/) にて採択されて発表した
+- 2023年1月　論文を [AROB-ISBC-SWARM 2023](https://isarob.org/symposium/) にて採択されて発表した
 
-2022年9月　論文を [SICE Annual Conference 2022](https://sice.jp/siceac/sice2022/) にて採択されて発表した
+- 2022年9月　論文を [SICE Annual Conference 2022](https://sice.jp/siceac/sice2022/) にて採択されて発表した
 
-2022年1月　論文を [第34回自律分散システム・シンポジウム](https://sites.google.com/sice-das.org/das34th/) にて発表した
+- 2022年1月　論文を [第34回自律分散システム・シンポジウム](https://sites.google.com/sice-das.org/das34th/) にて発表した
 
 <!-- ## スライド -->
 
