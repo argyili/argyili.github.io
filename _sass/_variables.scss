@@ -87,10 +87,11 @@ $vimeo-color                : #1ab7ea;
 $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
+$gray-color                 : #737373;
 
 
 /* links */
-$link-color                 : $info-color;
+$link-color                 : $gray-color;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
@@ -115,6 +116,7 @@ $medium                     : 768px !default;
 $medium-wide                : 900px !default;
 $large                      : 925px !default;
 $x-large                    : 1280px !default;
+$xx-large                   : 2000px;
 
 /*
    Grid
@@ -131,7 +133,7 @@ $susy: (
   math: fluid,
   output: float,
   gutter-position: after,
-  container: $large,
+  container: $xx-large,
   global-box-sizing: border-box,
   // debug: (
   //   image: show,
@@ -140,7 +142,6 @@ $susy: (
   //   toggle: top right,
   // ),
 );
-
 
 /*
    Other
