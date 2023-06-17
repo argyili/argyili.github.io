@@ -64,7 +64,7 @@ A. Li, M. Ogura and N. Wakamiya, “Proposal of a bearing-only shepherding algor
 
 Y. Deng, M. Ogura, A. Li and N. Wakamiya, ”Shepherding control for separating a single agent from a swarm,” in <em>1st IFAC Workshop on Control of Complex Systems</em>, pp. 217-222, 2022.
 
-A. Li, M. Ogura and N. Wakamiya, “Proposal of farthest-agent targeting algorithm with indirect chasing,” in <em>2022 SICE Annual Conference</em>, pp. 92-94, 2022.
+A. Li, M. Ogura and N. Wakamiya, “Proposal of farthest-agent targeting algorithm with indirect chasing,” in <em>SICE Annual Conference 2022</em>, pp. 92-94, 2022.
 
 ### 学会発表
 
