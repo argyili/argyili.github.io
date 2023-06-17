@@ -12,8 +12,8 @@ redirect_from:
 ---
 - [CV](/files/vita_aiyiLi.pdf)
 - 大阪大学大学院情報科学研究科 博士後期課程
-  - [バイオインスパイアードネットワーキング講座](http://www-waka.ist.osaka-u.ac.jp/index.php) 学生
-  - [ヒューマンウェアイノベーション博士課程プログラム](https://www.humanware.osaka-u.ac.jp) 履修生
+  - [バイオインスパイアードネットワーキング講座](http://www-waka.ist.osaka-u.ac.jp/index.php)
+  - [ヒューマンウェアイノベーション博士課程プログラム](https://www.humanware.osaka-u.ac.jp)
 
 2022年度に同研究室で修士号を取得し，大阪大学情報科学研究科賞を受賞しました．また，2022-2023年度ロータリー米山記念奨学金をいただきました．
 
