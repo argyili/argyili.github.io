@@ -10,7 +10,7 @@ redirect_from:
   - /about/jp/
   - /about/jp.html
 ---
-- [CV](/files/vita_aiyiLi.pdf)
+- [CV](/files/vita_AiyiLi.pdf)
 - 大阪大学大学院情報科学研究科 博士後期課程
   - [バイオインスパイアードネットワーキング講座](http://www-waka.ist.osaka-u.ac.jp/index.php)
   - [ヒューマンウェアイノベーション博士課程プログラム](https://www.humanware.osaka-u.ac.jp)
