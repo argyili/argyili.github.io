@@ -21,7 +21,7 @@ I have received the master degree at this research laboratory and was awarded th
 
 ## Research
 
-My research interests include multi-agent system, nonlinear control, modeling and simulation, and learning.
+My research interests include multi-agent system, agent-based simulation, biological physics, and data science.
 
 Currently, I am focusing on studying swarm systems and swarm control approaches. I also participate in collaborative research on the applications such as cells, cyborg insects, and drones.
 <!-- Keywords: Modeling and Simulation, Multi-agent System, Nonlinear Control, Swarm Intelligence -->
