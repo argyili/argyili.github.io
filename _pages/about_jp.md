@@ -25,9 +25,11 @@ redirect_from:
 
 ![Frontiers論文のイラスト](/assets/illust_frontiers.jpg){:width="40%"}
 
-## 最新情報
+## ニュース
 
-- 2023年6月　ヒューマンウェア学生主体融合領域研究「リーダードローンによるドローン群の協調運搬システムの提案」を採択された
+- 2023年7月　論文を [ACSOS 2023](https://2023.acsos.org/) の博士学生シンポジウムにて採択された
+
+- 2023年6月　研究助成はヒューマンウェアイノベーション博士課程プログラムにて採択された
 
 - 2023年5月　共著の論文を [IEEE SMC 2023](https://ieeesmc2023.org/) にて採択された
 
@@ -45,6 +47,10 @@ redirect_from:
 
 <!-- <script async class="speakerdeck-embed" data-slide="1" data-id="6acdc1b08b174ca7a141037f2863924a" data-ratio="1.33293838862559" src="//speakerdeck.com/assets/embed.js"></script> -->
 
+## 研究助成
+
+A. Li (PI) et al., “リーダードローンによるドローン群の協調運搬システムの提案,” ヒューマンウェアイノベーション博士課程プログラム学生主体融合領域研究支援経費, 2023年6月-2024年3月, 900,000円
+
 ## 受賞
 
 - 2022年度 大阪大学情報科学研究科賞
@@ -58,11 +64,13 @@ A. Li, M. Ogura and N. Wakamiya, “Communication-free shepherding navigation wi
 
 ### 査読付き国際会議論文
 
-Y. Deng, A. Li, M. Ogura and N. Wakamiya, ”Collision-free shepherding control of a single target within a swarm,” in <em>2023 IEEE International Conference on Systems, Man, and Cybernetics (accepted)</em>, 2023.
+A. Li, “Swarm control approach combining leader and predator agents,” in <em>4th IEEE International Conference on Autonomic Computing and Self-Organizing Systems</em>, <em>Doctoral Symposium (accepted)</em>, 2023.
+
+Y. Deng, A. Li, M. Ogura and N. Wakamiya, “Collision-free shepherding control of a single target within a swarm,” in <em>2023 IEEE International Conference on Systems, Man, and Cybernetics (accepted)</em>, 2023.
 
 A. Li, M. Ogura and N. Wakamiya, “Proposal of a bearing-only shepherding algorithm with limited sensing capabilities”, in <em>AROB-ISBC-SWARM 2023</em>, pp. GS34-1, 2023.
 
-Y. Deng, M. Ogura, A. Li and N. Wakamiya, ”Shepherding control for separating a single agent from a swarm,” in <em>1st IFAC Workshop on Control of Complex Systems</em>, pp. 217-222, 2022.
+Y. Deng, M. Ogura, A. Li and N. Wakamiya, “Shepherding control for separating a single agent from a swarm,” in <em>1st IFAC Workshop on Control of Complex Systems</em>, pp. 217-222, 2022.
 
 A. Li, M. Ogura and N. Wakamiya, “Proposal of farthest-agent targeting algorithm with indirect chasing,” in <em>SICE Annual Conference 2022</em>, pp. 92-94, 2022.
 
