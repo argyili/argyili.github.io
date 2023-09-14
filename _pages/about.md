@@ -13,7 +13,7 @@ redirect_from:
   - /404.html
 ---
 - [CV](/files/vita_AiyiLi.pdf)
-- Doctoral student, Graduate School of Information Science and Technology, Osaka University
+- PhD student, Graduate School of Information Science and Technology, Osaka University
   - Affiliated at [Bio-Inspired Networking Lab](http://www-waka.ist.osaka-u.ac.jp/index.php/en)
   - Participated at [Humanware Innovation Program](https://www.humanware.osaka-u.ac.jp/en/)
 
