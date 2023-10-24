@@ -65,9 +65,11 @@ A. Li, M. Ogura and N. Wakamiya, “Communication-free shepherding navigation wi
 
 ### 査読付き国際会議論文
 
+Y. Deng, A. Li, M. Ogura and N. Wakamiya, “Collision-free shepherding control of a single target within a swarm,” in <em>2023 IEEE International Conference on Systems, Man, and Cybernetics</em>, 2023.
+
 A. Li, “Swarm control approach combining leader and predator agents,” in <em>4th IEEE International Conference on Autonomic Computing and Self-Organizing Systems</em>, <em>Doctoral Symposium</em>, 2023.
 
-Y. Deng, A. Li, M. Ogura and N. Wakamiya, “Collision-free shepherding control of a single target within a swarm,” in <em>2023 IEEE International Conference on Systems, Man, and Cybernetics</em>, 2023.
+Y. Deng, A. Li, M. Ogura and N. Wakamiya, “Collision-free property analysis for the shepherding swarm,” in <em>SICE Annual Conference 2023</em>, pp. 1072-1073, 2023.
 
 A. Li, M. Ogura and N. Wakamiya, “Proposal of a bearing-only shepherding algorithm with limited sensing capabilities”, in <em>AROB-ISBC-SWARM 2023</em>, pp. GS34-1, 2023.
 
