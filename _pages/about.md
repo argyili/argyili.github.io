@@ -23,18 +23,20 @@ I have received the master degree at this research laboratory and was awarded th
 
 My research interests include multi-agent system, agent-based simulation, biological physics, and data science.
 
-Currently, I am focusing on studying swarm systems and swarm control approaches. I also participate in collaborative research on the applications such as cells, cyborg insects, and drones.
+Currently, I am focusing on studying swarm systems and swarm control approaches. I also participate in collaborative research on the applications such as cyborg insects, drones, and cells.
 <!-- Keywords: Modeling and Simulation, Multi-agent System, Nonlinear Control, Swarm Intelligence -->
 
-![Illustration of the Frontiers paper](/assets/illust_frontiers.jpg){:width="40%"}
+![Illustration of the Frontiers paper](/assets/illust_frontiers.jpg){:width="50%"}
 
 ## News
 
+- Dec 2023 - Poster presentation at [Osaka University's 2023 Humanware symposium](https://www.humanware.osaka-u.ac.jp/news-topics/event-info_20231201/)
+
 - Jul 2023 - Paper accepted for presentation at the doctoral symposium in <em>[ACSOS 2023](https://2023.acsos.org/)</em>
 
-- Jun 2023 - Research Grant accepted by Humanware Innovation Program
+- Jun 2023 - Research grant accepted by Humanware Innovation Program
 
-- May 2023 - Coauthored Paper accepted for presentation in <em>[IEEE SMC 2023](https://ieeesmc2023.org/)</em>
+- May 2023 - Coauthored paper accepted for presentation in <em>[IEEE SMC 2023](https://ieeesmc2023.org/)</em>
 
 - Feb 2023 - Master's Thesis submitted
 
@@ -52,7 +54,7 @@ Currently, I am focusing on studying swarm systems and swarm control approaches.
 
 ## Grants
 
-A. Li (PI) et al., “Cooperative Transport System for Drone Swarms with Leader Drones <em>(Translated)</em>,” <em>Humanware Innovation Program Student Driven Interdisciplinary Research</em>, June 2023-Mar 2024, JPY 900,000
+A. Li (PI) et al., “Cooperative Transport System for Drone Swarms with Leader Drones,” <em>Humanware Innovation Program Student Driven Interdisciplinary Research</em>, June 2023-Mar 2024, JPY 900,000
 
 ## Awards
 
