@@ -27,6 +27,8 @@ redirect_from:
 
 ## ニュース
 
+- 2023年12月 プロジェクトを [the Chunhui Cup](https://cyds.cscse.edu.cn/) Innovation and Entrepreneurship Competition for Overseas Chinese Scholars に選出された
+
 - 2023年12月 [大阪大学2023ヒューマンウェアシンポジウム](https://www.humanware.osaka-u.ac.jp/news-topics/event-info_20231201/)にてポスター発表
 
 - 2023年7月　論文を [ACSOS 2023](https://2023.acsos.org/) の博士学生シンポジウムにて採択された
