@@ -27,15 +27,17 @@ redirect_from:
 
 ## ニュース
 
-- 2023年12月 プロジェクトを [the Chunhui Cup](https://cyds.cscse.edu.cn/) Innovation and Entrepreneurship Competition for Overseas Chinese Scholars に選出された
+- 2023年12月　共著の論文を [PNAS Nexus](https://academic.oup.com/pnasnexus) にてアクセプトされた
 
-- 2023年12月 [大阪大学2023ヒューマンウェアシンポジウム](https://www.humanware.osaka-u.ac.jp/news-topics/event-info_20231201/)にてポスター発表
+- 2023年12月 提案プロジェクトを [the Chunhui Cup](https://cyds.cscse.edu.cn/) Innovation and Entrepreneurship Competition for Overseas Chinese Scholars に選出された
 
-- 2023年7月　論文を [ACSOS 2023](https://2023.acsos.org/) の博士学生シンポジウムにて採択された
+- 2023年12月 [大阪大学2023ヒューマンウェアシンポジウム](https://www.humanware.osaka-u.ac.jp/news-topics/event-info_20231201/)にてポスター発表した
+
+- 2023年10月　共著の論文を [IEEE SMC 2023](https://ieeesmc2023.org/) にて採択されて発表した
+
+- 2023年9月　論文を [ACSOS 2023](https://2023.acsos.org/) の博士課程学生シンポジウムにて採択されて発表した
 
 - 2023年6月　研究助成は大阪大学ヒューマンウェアイノベーション博士課程プログラムにて採択された
-
-- 2023年5月　共著の論文を [IEEE SMC 2023](https://ieeesmc2023.org/) にて採択された
 
 - 2023年2月　博士前期課程の学位論文を提出
 
