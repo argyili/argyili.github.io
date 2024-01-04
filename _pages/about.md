@@ -14,10 +14,10 @@ redirect_from:
 ---
 - [CV](/files/vita_AiyiLi.pdf)
 - PhD student, Graduate School of Information Science and Technology, Osaka University
-  - Affiliated at [Bio-Inspired Networking Lab](http://www-waka.ist.osaka-u.ac.jp/index.php/en)
+  - Affiliated at [Bio-Inspired Networking Laboratory](http://www-waka.ist.osaka-u.ac.jp/index.php/en)
   - Participated at [Humanware Innovation Program](https://www.humanware.osaka-u.ac.jp/en/)
 
-I have received the master degree at this research laboratory and was awarded the Award of the Graduate School of Information Science and Technology of Osaka University in 2023. Additionaly, I was honored to receive the Rotary Yoneyama Memorial Foundation Scholarship in 2022-2023.
+I have received the master degree at the same research lab and was awarded the Award of the Graduate School of Information Science and Technology of Osaka University in 2023. Additionaly, I was honored to receive the Rotary Yoneyama Memorial Foundation Scholarship in 2022-2023.
 
 ## Research
 
