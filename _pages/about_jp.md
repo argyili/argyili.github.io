@@ -31,7 +31,7 @@ redirect_from:
 
 - 2023年12月 提案プロジェクトを[the Chunhui Cup](https://cyds.cscse.edu.cn/) Innovation and Entrepreneurship Competition for Overseas Chinese Scholarsに選出された
 
-- 2023年12月[大阪大学2023ヒューマンウェアシンポジウム](https://www.humanware.osaka-u.ac.jp/news-topics/event-info_20231201/)にてポスター発表した
+- 2023年12月 [大阪大学2023ヒューマンウェアシンポジウム](https://www.humanware.osaka-u.ac.jp/news-topics/event-info_20231201/)にてポスター発表した
 
 - 2023年10月 共著の論文を[IEEE SMC 2023](https://ieeesmc2023.org/)にて採択されて発表した
 
