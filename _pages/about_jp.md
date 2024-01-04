@@ -27,27 +27,27 @@ redirect_from:
 
 ## ニュース
 
-- 2023年12月　共著の論文を [PNAS Nexus](https://academic.oup.com/pnasnexus) にてアクセプトされた
+- 2023年12月 共著の論文を[PNAS Nexus](https://academic.oup.com/pnasnexus)にてアクセプトされた
 
-- 2023年12月 提案プロジェクトを [the Chunhui Cup](https://cyds.cscse.edu.cn/) Innovation and Entrepreneurship Competition for Overseas Chinese Scholars に選出された
+- 2023年12月 提案プロジェクトを[the Chunhui Cup](https://cyds.cscse.edu.cn/) Innovation and Entrepreneurship Competition for Overseas Chinese Scholarsに選出された
 
-- 2023年12月 [大阪大学2023ヒューマンウェアシンポジウム](https://www.humanware.osaka-u.ac.jp/news-topics/event-info_20231201/)にてポスター発表した
+- 2023年12月[大阪大学2023ヒューマンウェアシンポジウム](https://www.humanware.osaka-u.ac.jp/news-topics/event-info_20231201/)にてポスター発表した
 
-- 2023年10月　共著の論文を [IEEE SMC 2023](https://ieeesmc2023.org/) にて採択されて発表した
+- 2023年10月 共著の論文を[IEEE SMC 2023](https://ieeesmc2023.org/)にて採択されて発表した
 
-- 2023年9月　論文を [ACSOS 2023](https://2023.acsos.org/) の博士課程学生シンポジウムにて採択されて発表した
+- 2023年9月 論文を[ACSOS 2023](https://2023.acsos.org/)の博士課程学生シンポジウムにて採択されて発表した
 
-- 2023年6月　研究助成は大阪大学ヒューマンウェアイノベーション博士課程プログラムにて採択された
+- 2023年6月 研究助成は大阪大学ヒューマンウェアイノベーション博士課程プログラムにて採択された
 
-- 2023年2月　博士前期課程の学位論文を提出
+- 2023年2月 博士前期課程の学位論文を提出
 
-- 2023年2月　論文を [Frontiers in Control Engineering](https://www.frontiersin.org/articles/10.3389/fcteg.2023.989232/full) にて採録された
+- 2023年2月 論文を[Frontiers in Control Engineering](https://www.frontiersin.org/articles/10.3389/fcteg.2023.989232/full)にて採録された
 
-- 2023年1月　論文を [AROB-ISBC-SWARM 2023](https://isarob.org/symposium/) にて採択されて発表した
+- 2023年1月 論文を[AROB-ISBC-SWARM 2023](https://isarob.org/symposium/)にて採択されて発表した
 
-- 2022年9月　論文を [SICE Annual Conference 2022](https://sice.jp/siceac/sice2022/) にて採択されて発表した
+- 2022年9月 論文を[SICE Annual Conference 2022](https://sice.jp/siceac/sice2022/)にて採択されて発表した
 
-- 2022年1月　論文を [第34回自律分散システム・シンポジウム](https://sites.google.com/sice-das.org/das34th/) にて発表した
+- 2022年1月 論文を[第34回自律分散システム・シンポジウム](https://sites.google.com/sice-das.org/das34th/)にて発表した
 
 <!-- ## スライド -->
 
