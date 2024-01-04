@@ -30,27 +30,27 @@ Currently, I am focusing on studying swarm systems and swarm control approaches.
 
 ## News
 
-- Dec 2023 - Coauthored paper accepted for publication in <em>[PNAS Nexus](https://academic.oup.com/pnasnexus)</em>
+- Dec 2023 - Coauthored paper accepted for publication in [PNAS Nexus](https://academic.oup.com/pnasnexus)
 
 - Dec 2023 - Project winned for [the Chunhui Cup](https://cyds.cscse.edu.cn/) Innovation and Entrepreneurship Competition for Overseas Chinese Scholars
 
 - Dec 2023 - Poster presented at [Osaka University's 2023 Humanware symposium](https://www.humanware.osaka-u.ac.jp/news-topics/event-info_20231201/)
 
-- Oct 2023 - Coauthored paper accepted and presented in <em>[IEEE SMC 2023](https://ieeesmc2023.org/)</em>
+- Oct 2023 - Coauthored paper accepted and presented in [IEEE SMC 2023](https://ieeesmc2023.org/)
 
-- Sep 2023 - Paper accepted and presented at the doctoral symposium in <em>[ACSOS 2023](https://2023.acsos.org/)</em>
+- Sep 2023 - Paper accepted and presented at the doctoral symposium in [ACSOS 2023](https://2023.acsos.org/)
 
 - Jun 2023 - Research grant accepted by Humanware Innovation Program of Osaka University
 
 - Feb 2023 - Master's Thesis submitted
 
-- Feb 2023 - Paper accepted and published in <em>[Frontiers in Control Engineering](https://www.frontiersin.org/articles/10.3389/fcteg.2023.989232/full)</em>
+- Feb 2023 - Paper accepted and published in [Frontiers in Control Engineering](https://www.frontiersin.org/articles/10.3389/fcteg.2023.989232/full)
 
-- Jan 2023 - Paper accepted and presented in <em>[AROB-ISBC-SWARM 2023](https://isarob.org/symposium/)</em>
+- Jan 2023 - Paper accepted and presented in [AROB-ISBC-SWARM 2023](https://isarob.org/symposium/)
 
-- Sep 2022 - Paper accepted and presented in <em>[SICE Annual Conference 2022](https://sice.jp/siceac/sice2022/)</em>  
+- Sep 2022 - Paper accepted and presented in [SICE Annual Conference 2022](https://sice.jp/siceac/sice2022/)  
 
-- Jan 2022 - Paper presented in <em>[the 34th SICE Symposium on Decentralized Autonomous Systems](https://sites.google.com/sice-das.org/das34th/)</em>  
+- Jan 2022 - Paper presented in [the 34th SICE Symposium on Decentralized Autonomous Systems](https://sites.google.com/sice-das.org/das34th/)  
 
 <!-- ## Slides -->
 
