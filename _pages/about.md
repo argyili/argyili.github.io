@@ -32,7 +32,7 @@ Currently, I am focusing on studying swarm systems and swarm control approaches.
 
 - Dec 2023 - Coauthored paper accepted for publication in [PNAS Nexus](https://academic.oup.com/pnasnexus)
 
-- Dec 2023 - Project awarded for [the Chunhui Cup](https://cyds.cscse.edu.cn/) Innovation and Entrepreneurship Competition for Overseas Chinese Scholars
+- Dec 2023 - Project awarded for [the Chunhui Cup Innovation and Entrepreneurship Competition for Overseas Chinese Scholars](https://cyds.cscse.edu.cn/)
 
 - Dec 2023 - Poster presented at [Osaka University's 2023 Humanware symposium](https://www.humanware.osaka-u.ac.jp/news-topics/event-info_20231201/)
 

@@ -29,7 +29,7 @@ redirect_from:
 
 - 2023年12月 共著の論文を[PNAS Nexus](https://academic.oup.com/pnasnexus)にてアクセプトされた
 
-- 2023年12月 提案プロジェクトを[the Chunhui Cup](https://cyds.cscse.edu.cn/) Innovation and Entrepreneurship Competition for Overseas Chinese Scholarsに選出された
+- 2023年12月 提案プロジェクトを[the Chunhui Cup Innovation and Entrepreneurship Competition for Overseas Chinese Scholars](https://cyds.cscse.edu.cn/)に選出された
 
 - 2023年12月 [大阪大学2023ヒューマンウェアシンポジウム](https://www.humanware.osaka-u.ac.jp/news-topics/event-info_20231201/)にてポスター発表した
 
