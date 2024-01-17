@@ -30,7 +30,7 @@ Currently, I am focusing on studying swarm systems and swarm control approaches.
 
 ## News
 
-- Dec 2023 - Coauthored paper accepted and published in [PNAS Nexus](https://academic.oup.com/pnasnexus/article/3/1/pgad447/7517476)
+- Jan 2024 - Coauthored paper accepted and published in [PNAS Nexus](https://academic.oup.com/pnasnexus/article/3/1/pgad447/7517476)
 
 - Dec 2023 - Project awarded for [the Chunhui Cup for Overseas Chinese Scholars](https://cyds.cscse.edu.cn/)
 
