@@ -27,7 +27,7 @@ redirect_from:
 
 ## ニュース
 
-- 2023年12月 共著の論文を[PNAS Nexus](https://academic.oup.com/pnasnexus)にてアクセプトされた
+- 2023年12月 共著の論文を[PNAS Nexus](https://academic.oup.com/pnasnexus/article/3/1/pgad447/7517476)にて採録された
 
 - 2023年12月 提案プロジェクトを[the Chunhui Cup for Overseas Chinese Scholars](https://cyds.cscse.edu.cn/)に選出された
 
