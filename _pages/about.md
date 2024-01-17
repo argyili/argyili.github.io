@@ -70,7 +70,9 @@ A. Li (PI) et al., “Cooperative Transport System for Drone Swarms with Leader 
 
 ### Journal articles
 
-A. Li, M. Ogura and N. Wakamiya, “Communication-free shepherding navigation with multiple steering agents,” <em>Frontiers in Control Engineering</em>, vol. 4, 2023.
+K. Tanigaki, R. Otsuka, A. Li, Y. Hatano, Y. Wei, S. Koyama, K. Yoda, T. Maekawa, "Automatic recording of rare behaviors of wild animals using video bio-loggers with on-board light-weight outlier detector," <em>PNAS Nexus</em>, vol. 3, no. 1, p.pgad447, 2024.
+
+A. Li, M. Ogura and N. Wakamiya, “Communication-free shepherding navigation with multiple steering agents,” <em>Frontiers in Control Engineering</em>, vol. 4, p.989232, 2023.
 
 ### Conference proceedings
 
