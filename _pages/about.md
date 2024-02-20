@@ -30,6 +30,8 @@ Currently, I am focusing on studying swarm systems and swarm control approaches.
 
 ## News
 
+- Feb 2024 - Paper presented in [the 36th SICE Symposium on Decentralized Autonomous Systems](https://sites.google.com/sice-das.org/das36th/)
+
 - Jan 2024 - Coauthored paper accepted and published in [PNAS Nexus](https://academic.oup.com/pnasnexus/article/3/1/pgad447/7517476)
 
 - Dec 2023 - Project awarded for [the Chunhui Cup for Overseas Chinese Scholars](https://cyds.cscse.edu.cn/)
@@ -89,6 +91,8 @@ Y. Deng, M. Ogura, A. Li and N. Wakamiya, “Shepherding control for separating 
 A. Li, M. Ogura and N. Wakamiya, “Proposal of farthest-agent targeting algorithm with indirect chasing,” in <em>SICE Annual Conference 2022</em>, pp. 92-94, 2022.
 
 ### Domestic presentations
+
+A. Li, et al., “Semi-autonomous Leader-follower Approach for Swarm Drone Guidance,” <em>第35回自律分散システム・シンポジウム</em>, pp. 1C2-4, 2024.
 
 A. Li, M. Ogura and N. Wakamiya, “Evaluation of applicability of a bearing-only shepherding algorithm to various initial placements,” <em>第67回システム制御情報学会研究発表講演会</em>, pp. 251-3, 2023.
 

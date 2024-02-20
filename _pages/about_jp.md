@@ -27,6 +27,8 @@ redirect_from:
 
 ## ニュース
 
+- 2022年1月 [第36回自律分散システム・シンポジウム](https://sites.google.com/sice-das.org/das36th/)にて発表した
+
 - 2024年1月 共著の論文を[PNAS Nexus](https://academic.oup.com/pnasnexus/article/3/1/pgad447/7517476)にて採録された
 
 - 2023年12月 提案プロジェクトを[the Chunhui Cup for Overseas Chinese Scholars](https://cyds.cscse.edu.cn/)に選出された
@@ -47,7 +49,7 @@ redirect_from:
 
 - 2022年9月 論文を[SICE Annual Conference 2022](https://sice.jp/siceac/sice2022/)にて採択されて発表した
 
-- 2022年1月 論文を[第34回自律分散システム・シンポジウム](https://sites.google.com/sice-das.org/das34th/)にて発表した
+- 2022年1月 [第34回自律分散システム・シンポジウム](https://sites.google.com/sice-das.org/das34th/)にて発表した
 
 <!-- ## スライド -->
 
@@ -85,6 +87,8 @@ Y. Deng, M. Ogura, A. Li and N. Wakamiya, “Shepherding control for separating 
 A. Li, M. Ogura and N. Wakamiya, “Proposal of farthest-agent targeting algorithm with indirect chasing,” in <em>SICE Annual Conference 2022</em>, pp. 92-94, 2022.
 
 ### 学会発表
+
+A. Li, et al., “Semi-autonomous Leader-follower Approach for Swarm Drone Guidance,” <em>第35回自律分散システム・シンポジウム</em>, pp. 1C2-4, 2024.
 
 A. Li, M. Ogura and N. Wakamiya, “Evaluation of applicability of a bearing-only shepherding algorithm to various initial placements,” <em>第67回システム制御情報学会研究発表講演会</em>, pp. 251-3, 2023.
 
