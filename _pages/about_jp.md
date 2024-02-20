@@ -88,7 +88,7 @@ A. Li, M. Ogura and N. Wakamiya, “Proposal of farthest-agent targeting algorit
 
 ### 学会発表
 
-A. Li, et al., “Semi-autonomous Leader-follower Approach for Swarm Drone Guidance,” <em>第35回自律分散システム・シンポジウム</em>, pp. 1C2-4, 2024.
+A. Li, et al., “Semi-autonomous Leader-follower Approach for Swarm Drone Guidance,” <em>第36回自律分散システム・シンポジウム</em>, pp. 1C2-4, 2024.
 
 A. Li, M. Ogura and N. Wakamiya, “Evaluation of applicability of a bearing-only shepherding algorithm to various initial placements,” <em>第67回システム制御情報学会研究発表講演会</em>, pp. 251-3, 2023.
 
