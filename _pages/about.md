@@ -30,7 +30,7 @@ Currently, I am focusing on studying swarm systems and swarm control approaches.
 
 ## News
 
-- Feb 2024 - Paper presented in [the 36th SICE Symposium on Decentralized Autonomous Systems](https://sites.google.com/sice-das.org/das36th/)
+- Feb 2024 - Presented in [the 36th SICE Symposium on Decentralized Autonomous Systems](https://sites.google.com/sice-das.org/das36th/)
 
 - Jan 2024 - Coauthored paper accepted and published in [PNAS Nexus](https://academic.oup.com/pnasnexus/article/3/1/pgad447/7517476)
 
@@ -44,7 +44,7 @@ Currently, I am focusing on studying swarm systems and swarm control approaches.
 
 - Jun 2023 - Research grant accepted by Humanware Innovation Program of Osaka University
 
-- Feb 2023 - Master's Thesis submitted
+- Feb 2023 - Master's thesis submitted
 
 - Feb 2023 - Paper accepted and published in [Frontiers in Control Engineering](https://www.frontiersin.org/articles/10.3389/fcteg.2023.989232/full)
 
@@ -52,7 +52,7 @@ Currently, I am focusing on studying swarm systems and swarm control approaches.
 
 - Sep 2022 - Paper accepted and presented in [SICE Annual Conference 2022](https://sice.jp/siceac/sice2022/)  
 
-- Jan 2022 - Paper presented in [the 34th SICE Symposium on Decentralized Autonomous Systems](https://sites.google.com/sice-das.org/das34th/)  
+- Jan 2022 - Presented in [the 34th SICE Symposium on Decentralized Autonomous Systems](https://sites.google.com/sice-das.org/das34th/)  
 
 <!-- ## Slides -->
 
