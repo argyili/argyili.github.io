@@ -26,9 +26,11 @@ My research interests include multi-agent system, agent-based simulation, biolog
 Currently, I am focusing on studying swarm systems and swarm control approaches. I also participate in collaborative research on the applications such as cyborg insects, drones, and cells.
 <!-- Keywords: Modeling and Simulation, Multi-agent System, Nonlinear Control, Swarm Intelligence -->
 
-![Illustration of the Frontiers paper](/assets/illust_frontiers.jpg){:width="50%"}
+![Illustration of the Frontiers paper](/assets/illust_frontiers.jpg){:width="40%"}
 
 ## News
+
+- Mar 2024 - Presented in [the 11th SICE Multi-Symposium on Control Systems](https://mscs2024.sice-ctrl.jp/)
 
 - Feb 2024 - Presented in [the 36th SICE Symposium on Decentralized Autonomous Systems](https://sites.google.com/sice-das.org/das36th/)
 
@@ -78,9 +80,9 @@ A. Li, M. Ogura and N. Wakamiya, “Communication-free shepherding navigation wi
 
 ### Conference proceedings
 
-Y. Deng, A. Li, M. Ogura and N. Wakamiya, “Collision-free shepherding control of a single target within a swarm,” in <em>2023 IEEE International Conference on Systems, Man, and Cybernetics</em>, 2023.
+Y. Deng, A. Li, M. Ogura and N. Wakamiya, “Collision-free shepherding control of a single target within a swarm,” in <em>2023 IEEE International Conference on Systems, Man, and Cybernetics</em>, pp. 5218-5223, 2023.
 
-A. Li, “Swarm control approach combining leader and predator agents,” in <em>4th IEEE International Conference on Autonomic Computing and Self-Organizing Systems</em>, <em>Doctoral Symposium</em>, 2023.
+A. Li, “Swarm control approach combining leader and predator agents,” in <em>4th IEEE International Conference on Autonomic Computing and Self-Organizing Systems</em>, <em>Doctoral Symposium</em>, pp. 19-20, 2023.
 
 Y. Deng, A. Li, M. Ogura and N. Wakamiya, “Collision-free property analysis for the shepherding swarm,” in <em>SICE Annual Conference 2023</em>, pp. 1072-1073, 2023.
 
@@ -91,6 +93,8 @@ Y. Deng, M. Ogura, A. Li and N. Wakamiya, “Shepherding control for separating 
 A. Li, M. Ogura and N. Wakamiya, “Proposal of farthest-agent targeting algorithm with indirect chasing,” in <em>SICE Annual Conference 2022</em>, pp. 92-94, 2022.
 
 ### Domestic presentations
+
+A. Li, R. Oshima, Y. Murakami, M. Ogura, and N. Wakamiya, “Divide-and-rule strategies for shepherding swarms with inherent noise,” <em>計測自動制御学会第11回制御部門マルチシンポジウム</em>, pp. 1A7-2, 2024.
 
 A. Li, et al., “Semi-autonomous Leader-follower Approach for Swarm Drone Guidance,” <em>第36回自律分散システム・シンポジウム</em>, pp. 1C2-4, 2024.
 
