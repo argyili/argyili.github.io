@@ -30,6 +30,8 @@ Currently, I am focusing on studying swarm systems and swarm control approaches.
 
 ## News
 
+- April 2024 - One-month visit to the University of New South Wales, Canberra, Australia
+
 - Mar 2024 - Presented in [the 11th SICE Multi-Symposium on Control Systems](https://mscs2024.sice-ctrl.jp/)
 
 - Feb 2024 - Presented in [the 36th SICE Symposium on Decentralized Autonomous Systems](https://sites.google.com/sice-das.org/das36th/)

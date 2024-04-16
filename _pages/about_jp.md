@@ -27,9 +27,11 @@ redirect_from:
 
 ## ニュース
 
-- 2022年3月 [第11回制御部門マルチシンポジウム](https://mscs2024.sice-ctrl.jp/)にて発表した
+- 2024年4月 オーストラリアのニューサウスウェールズ大学（キャンベラ）へ1ヵ月間訪問
 
-- 2022年1月 [第36回自律分散システム・シンポジウム](https://sites.google.com/sice-das.org/das36th/)にて発表した
+- 2024年3月 [第11回制御部門マルチシンポジウム](https://mscs2024.sice-ctrl.jp/)にて発表した
+
+- 2024年1月 [第36回自律分散システム・シンポジウム](https://sites.google.com/sice-das.org/das36th/)にて発表した
 
 - 2024年1月 共著の論文を[PNAS Nexus](https://academic.oup.com/pnasnexus/article/3/1/pgad447/7517476)にて採録された
 
