@@ -14,7 +14,7 @@ redirect_from:
 ---
 
 
-**Seeking employment opportunitites in industries!**
+**Seeking employment opportunities in industries!**
 
 - [CV](/files/vita_AiyiLi.pdf)
 - PhD student, Graduate School of Information Science and Technology, Osaka University
