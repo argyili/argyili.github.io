@@ -12,6 +12,9 @@ redirect_from:
   - /about.html
   - /404.html
 ---
+
+Seeking employment opportunitites in industries!
+
 - [CV](/files/vita_AiyiLi.pdf)
 - PhD student, Graduate School of Information Science and Technology, Osaka University
   - Affiliated at [Bio-Inspired Networking Laboratory](http://www-waka.ist.osaka-u.ac.jp/index.php/en)
