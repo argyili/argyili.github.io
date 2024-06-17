@@ -14,7 +14,7 @@ redirect_from:
 ---
 
 
-**Seeking employment opportunities in industries!**
+**Currently seeking job opportunities in the industry!**
 
 - [CV](/files/vita_AiyiLi.pdf)
 - PhD student, Graduate School of Information Science and Technology, Osaka University
@@ -72,6 +72,7 @@ A. Li (PI) et al., “Cooperative Transport System for Drone Swarms with Leader 
 
 ## Awards
 
+- Award of the Chunhui Cup for Overseas Students Innovation and Entrepreneurship Competition. China. 2023
 - IEEE TCSE Diversity and Inclusion Travel Grant Award, ACSOS. 2023
 - The Award of the Graduate School of Information Science and Technology, Osaka University. 2023
 - The SICE Student Award of the Society of Instrument and Control Engineers, Japan. 2023
@@ -80,11 +81,15 @@ A. Li (PI) et al., “Cooperative Transport System for Drone Swarms with Leader 
 
 ### Journal articles
 
+A. Li, M. Ogura and N. Wakamiya, “Swarm shepherding using bearing-only measurements,” <em>Submitted for publication</em>.
+
 K. Tanigaki, R. Otsuka, A. Li, Y. Hatano, Y. Wei, S. Koyama, K. Yoda, T. Maekawa, "Automatic recording of rare behaviors of wild animals using video bio-loggers with on-board light-weight outlier detector," <em>PNAS Nexus</em>, vol. 3, no. 1, p. pgad447, 2024.
 
 A. Li, M. Ogura and N. Wakamiya, “Communication-free shepherding navigation with multiple steering agents,” <em>Frontiers in Control Engineering</em>, vol. 4, p. 989232, 2023.
 
 ### Conference proceedings
+
+A. Li, R. Oshima, Y. Murakami, M. Ogura, and N. Wakamiya, “Divide-and-rule strategies for shepherding multiple swarms with inherent noise in various placements,” <em>Submitted for presentation</em>.
 
 Y. Deng, A. Li, M. Ogura and N. Wakamiya, “Collision-free shepherding control of a single target within a swarm,” in <em>2023 IEEE International Conference on Systems, Man, and Cybernetics</em>, pp. 5218-5223, 2023.
 
@@ -99,6 +104,8 @@ Y. Deng, M. Ogura, A. Li and N. Wakamiya, “Shepherding control for separating 
 A. Li, M. Ogura and N. Wakamiya, “Proposal of farthest-agent targeting algorithm with indirect chasing,” in <em>SICE Annual Conference 2022</em>, pp. 92-94, 2022.
 
 ### Domestic presentations
+
+谷垣慶, 大塚亮真, Li Aiyi, 波多野遥太, Wei Yuanzhou, 小山偲歩, 依田憲, 前川卓也, “カメラ搭載型バイオロガーを活用した野生生物の希少行動の自動記録,” <em>情報処理学会第82回UBI研究会</em>, 優秀論文賞, 2024.
 
 A. Li, R. Oshima, Y. Murakami, M. Ogura, and N. Wakamiya, “Divide-and-rule strategies for shepherding swarms with inherent noise,” <em>計測自動制御学会第11回制御部門マルチシンポジウム</em>, pp. 1A7-2, 2024.
 
