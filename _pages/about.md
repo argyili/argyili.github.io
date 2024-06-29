@@ -16,7 +16,7 @@ redirect_from:
 
 **Currently seeking job opportunities in the industry!**
 
-- [CV](/files/vita_AiyiLi.pdf)
+- [CV](/files/vita_AiyiLi.pdf) &nbsp; [中文CV](/files/vita_zh_AiyiLi.pdf)
 - PhD student, Graduate School of Information Science and Technology, Osaka University
   - Affiliated at [Bio-Inspired Networking Laboratory](http://www-waka.ist.osaka-u.ac.jp/index.php/en)
   - Participated at [Humanware Innovation Program](https://www.humanware.osaka-u.ac.jp/en/)
