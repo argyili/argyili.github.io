@@ -81,7 +81,7 @@ A. Li (PI) et al., “Cooperative Transport System for Drone Swarms with Leader 
 
 ### Journal articles
 
-A. Li, M. Ogura and N. Wakamiya, “Swarm shepherding using bearing-only measurements,” <em>Submitted for publication</em>.
+A. Li, M. Ogura and N. Wakamiya, “Swarm shepherding using bearing-only measurements,” <em>In revision</em>.
 
 K. Tanigaki, R. Otsuka, A. Li, Y. Hatano, Y. Wei, S. Koyama, K. Yoda, T. Maekawa, "Automatic recording of rare behaviors of wild animals using video bio-loggers with on-board light-weight outlier detector," <em>PNAS Nexus</em>, vol. 3, no. 1, p. pgad447, 2024.
 
