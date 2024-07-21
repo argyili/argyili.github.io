@@ -31,18 +31,11 @@ I am currently interested in multi-agent reinforcement learning for collaboratio
 
 ## Short visiting
 
-- Apr 2024 - One-month visit to the University of New South Wales, Canberra, Australia
+Apr 2024 - One-month visit to the University of New South Wales, Canberra, Australia
 
 ## Grants
 
 A. Li (PI) et al., “Cooperative Transport System for Drone Swarms with Leader Drones,” <em>Humanware Innovation Program Student Driven Interdisciplinary Research</em>, June 2023-Mar 2024, JPY 900,000
-
-## Awards
-
-- IEEE TCSE Diversity and Inclusion Travel Grant Award, ACSOS. 2023
-- The Award of the Graduate School of Information Science and Technology, Osaka University. 2023
-- The SICE Student Award of the Society of Instrument and Control Engineers. 2023
-- The Rotary Yoneyama Memorial Foundation Scholarship. 2022-2023
 
 ## Publications
 
@@ -71,3 +64,10 @@ A. Li, “Swarm control approach combining leader and predator agents,” in <em
 ### Selected domestic presentations
 
 A. Li, et al., “Semi-autonomous leader-follower approach for swarm drone guidance,” <em>第36回自律分散システム・シンポジウム</em>, pp. 1C2-4, 2024.
+
+## Awards
+
+- IEEE TCSE Diversity and Inclusion Travel Grant Award, ACSOS. 2023
+- The Award of the Graduate School of Information Science and Technology, Osaka University. 2023
+- The SICE Student Award of the Society of Instrument and Control Engineers. 2023
+- The Rotary Yoneyama Memorial Foundation Scholarship. 2022-2023
