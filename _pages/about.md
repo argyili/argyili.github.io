@@ -43,21 +43,21 @@ A. Li (PI) et al., “Cooperative Transport System for Drone Swarms with Leader 
 
 A. Li, M. Ogura and N. Wakamiya, “Swarm shepherding using bearing-only measurements,” <em>In revision</em>.
 
-![Illustration](/assets/illust_rs.jpg){:width="20%"}
+![Illustration](/assets/illust_rs.jpg){:width="30%"}
 
 K. Tanigaki, R. Otsuka, A. Li, Y. Hatano, Y. Wei, S. Koyama, K. Yoda, T. Maekawa, "Automatic recording of rare behaviors of wild animals using video bio-loggers with on-board light-weight outlier detector," <em>PNAS Nexus</em>, vol. 3, no. 1, p. pgad447, 2024.
 
-![Illustration](/assets/illust_pnas.jpg){:width="20%"}
+![Illustration](/assets/illust_pnas.jpg){:width="30%"}
 
 A. Li, M. Ogura and N. Wakamiya, “Communication-free shepherding navigation with multiple steering agents,” <em>Frontiers in Control Engineering</em>, vol. 4, p. 989232, 2023.
 
-![Illustration](/assets/illust_frontiers.jpg){:width="20%"}
+![Illustration](/assets/illust_frontiers.jpg){:width="30%"}
 
 ### Selected conference proceedings
 
 Y. Deng, A. Li, M. Ogura and N. Wakamiya, “Collision-free shepherding control of a single target within a swarm,” in <em>2023 IEEE International Conference on Systems, Man, and Cybernetics</em>, pp. 5218-5223, 2023.
 
-![Illustration](/assets/illust_smc.png){:width="20%"}
+![Illustration](/assets/illust_smc.png){:width="30%"}
 
 A. Li, “Swarm control approach combining leader and predator agents,” in <em>4th IEEE International Conference on Autonomic Computing and Self-Organizing Systems</em>, <em>Doctoral Symposium</em>, pp. 19-20, 2023.
 
