@@ -33,13 +33,9 @@ I am currently interested in multi-agent reinforcement learning for collaboratio
 
 One-month visit to the University of New South Wales, Canberra, Australia, 2024.
 
-## Grants
+## Selected publications
 
-A. Li (PI) et al., “Cooperative Transport System for Drone Swarms with Leader Drones,” <em>Humanware Innovation Program Student Driven Interdisciplinary Research</em>, June 2023-Mar 2024, JPY 900,000
-
-## Publications
-
-### Selected journal articles
+<!-- ### Selected journal articles -->
 
 A. Li, M. Ogura and N. Wakamiya, “Swarm shepherding using bearing-only measurements,” <em>In revision</em>.
 
@@ -53,7 +49,7 @@ A. Li, M. Ogura and N. Wakamiya, “Communication-free shepherding navigation wi
 
 ![Illustration](/assets/illust_frontiers.jpg){:width="30%"}
 
-### Selected conference proceedings
+<!-- ### Selected conference proceedings -->
 
 Y. Deng, A. Li, M. Ogura and N. Wakamiya, “Collision-free shepherding control of a single target within a swarm,” in <em>2023 IEEE International Conference on Systems, Man, and Cybernetics</em>, pp. 5218-5223, 2023.
 
@@ -61,9 +57,13 @@ Y. Deng, A. Li, M. Ogura and N. Wakamiya, “Collision-free shepherding control 
 
 A. Li, “Swarm control approach combining leader and predator agents,” in <em>4th IEEE International Conference on Autonomic Computing and Self-Organizing Systems</em>, <em>Doctoral Symposium</em>, pp. 19-20, 2023.
 
-### Selected domestic presentations
+<!-- ### Selected domestic presentations -->
 
 A. Li, et al., “Semi-autonomous leader-follower approach for swarm drone guidance,” <em>第36回自律分散システム・シンポジウム</em>, pp. 1C2-4, 2024.
+
+## Grants
+
+A. Li (PI) et al., “Cooperative Transport System for Drone Swarms with Leader Drones,” <em>Humanware Innovation Program Student Driven Interdisciplinary Research</em>, June 2023-Mar 2024, JPY 900,000
 
 ## Awards
 
