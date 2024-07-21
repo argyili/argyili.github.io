@@ -69,5 +69,5 @@ A. Li (PI) et al., “Cooperative Transport System for Drone Swarms with Leader 
 
 - IEEE TCSE Diversity and Inclusion Travel Grant Award, ACSOS. 2023
 - The Award of the Graduate School of Information Science and Technology, Osaka University. 2023
-- The SICE Student Award of the Society of Instrument and Control Engineers. 2023
-- The Rotary Yoneyama Memorial Foundation Scholarship. 2022-2023
+- The SICE Student Award of the Society of Instrument and Control Engineers, SICE. 2023
+- The Rotary Yoneyama Memorial Foundation Scholarship, Rotary. 2022-2023
