@@ -25,9 +25,9 @@ redirect_from:
 
 ## Research
 
-My research interests include swarm systems and swarm control. I also participate in collaborative research on the applications such as cyborg insects, drones, and cells.
+My research focuses on swarm systems and swarm control. I have also participated in collaborative research on applications such as cyborg insects, drones, and cells.
 
-I am currently interested in multi-agent reinforcement learning for collaboration.
+Currently, I am interested in multi-agent reinforcement learning for collaboration, AI-driven decision reasoning, decision-making and planning for autonomous driving, as well as other AI-related algorithms.
 
 ## Short visiting
 
