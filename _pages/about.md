@@ -61,9 +61,9 @@ A. Li, et al., “Semi-autonomous leader-follower approach for swarm drone guida
 
 ![Illustration](/assets/illust_dars.png){:width="35%"}
 
-Online shepherding interactive unity-based game [Link](https://www-waka.ist.osaka-u.ac.jp/game/)
+Online shepherding interactive unity-based game: [link](https://www-waka.ist.osaka-u.ac.jp/game/)
 
-![Illustration](/assets/illust_game.png){:width="25%"}
+![Illustration](/assets/illust_game.png){:width="35%"}
 
 ## Grants
 
