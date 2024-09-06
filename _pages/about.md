@@ -18,7 +18,7 @@ redirect_from:
 
 **Job hunting in the industry!**
 
-- [CV](/files/vita_AiyiLi.pdf) &nbsp; [中文CV](/files/vita_zh_AiyiLi.pdf)
+- [中文CV](/files/vita_zh_AiyiLi.pdf)
 - PhD student, Graduate School of Information Science and Technology, Osaka University
   - Affiliated at [Bio-Inspired Networking Laboratory](http://www-waka.ist.osaka-u.ac.jp/index.php/en)
   - Participated at [Humanware Innovation Program](https://www.humanware.osaka-u.ac.jp/en/)
@@ -37,7 +37,7 @@ One-month visit to the University of New South Wales, Canberra, Australia, 2024.
 
 <!-- ### Selected journal articles -->
 
-A. Li, M. Ogura and N. Wakamiya, “Swarm shepherding using bearing-only measurements,” <em>In revision</em>.
+A. Li, M. Ogura and N. Wakamiya, “Swarm shepherding using bearing-only measurements,” <em>Philosophical Transactions of the Royal Society A</em>， Accepted.
 
 ![Illustration](/assets/illust_rs.jpg){:width="35%"}
 
@@ -57,9 +57,13 @@ Y. Deng, A. Li, M. Ogura and N. Wakamiya, “Collision-free shepherding control 
 
 A. Li, “Swarm control approach combining leader and predator agents,” in <em>4th IEEE International Conference on Autonomic Computing and Self-Organizing Systems</em>, <em>Doctoral Symposium</em>, pp. 19-20, 2023.
 
-<!-- ### Selected domestic presentations -->
-
 A. Li, et al., “Semi-autonomous leader-follower approach for swarm drone guidance,” <em>第36回自律分散システム・シンポジウム</em>, pp. 1C2-4, 2024.
+
+![Illustration](/assets/illust_dars.png){:width="35%"}
+
+Online shepherding interactive unity-based game [Link](https://www-waka.ist.osaka-u.ac.jp/game/)
+
+![Illustration](/assets/illust_game.png){:width="25%"}
 
 ## Grants
 
