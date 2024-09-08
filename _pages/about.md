@@ -37,7 +37,7 @@ One-month visit to the University of New South Wales, Canberra, Australia, 2024.
 
 <!-- ### Selected journal articles -->
 
-A. Li, M. Ogura and N. Wakamiya, “Swarm shepherding using bearing-only measurements,” <em>Philosophical Transactions of the Royal Society A</em>， Accepted.
+A. Li, M. Ogura and N. Wakamiya, “Swarm shepherding using bearing-only measurements,” <em>Philosophical Transactions of the Royal Society A</em>, accepted for publication.
 
 ![Illustration](/assets/illust_rs.jpg){:width="35%"}
 
