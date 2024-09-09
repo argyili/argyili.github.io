@@ -31,31 +31,27 @@ Currently, I am particularly interested in reinforcement learning in games, deci
 
 ## Short visiting
 
-One-month visit to the University of New South Wales, Canberra, Australia, 2024.
+One-month visit to the University of New South Wales, Canberra, Australia, 2024.  
+Project: Inverse reinforcement learning in swarm shepherding
 
-## Selected publications
+## Selected projects
 
 <!-- ### Selected journal articles -->
+Current: Strategy-based reinforcement learning in swarm shepherding
 
 A. Li, M. Ogura and N. Wakamiya, “Swarm shepherding using bearing-only measurements,” <em>Philosophical Transactions of the Royal Society A</em>, accepted for publication.
 
 ![Illustration](/assets/illust_rs.jpg){:width="35%"}
 
-K. Tanigaki, R. Otsuka, A. Li, Y. Hatano, Y. Wei, S. Koyama, K. Yoda, T. Maekawa, "Automatic recording of rare behaviors of wild animals using video bio-loggers with on-board light-weight outlier detector," <em>PNAS Nexus</em>, vol. 3, no. 1, p. pgad447, 2024.
-
-![Illustration](/assets/illust_pnas.jpg){:width="35%"}
-
 A. Li, M. Ogura and N. Wakamiya, “Communication-free shepherding navigation with multiple steering agents,” <em>Frontiers in Control Engineering</em>, vol. 4, p. 989232, 2023.
 
 ![Illustration](/assets/illust_frontiers.jpg){:width="35%"}
 
+K. Tanigaki, R. Otsuka, A. Li, Y. Hatano, Y. Wei, S. Koyama, K. Yoda, T. Maekawa, "Automatic recording of rare behaviors of wild animals using video bio-loggers with on-board light-weight outlier detector," <em>PNAS Nexus</em>, vol. 3, no. 1, p. pgad447, 2024.
+
+![Illustration](/assets/illust_pnas.jpg){:width="35%"}
+
 <!-- ### Selected conference proceedings -->
-
-Y. Deng, A. Li, M. Ogura and N. Wakamiya, “Collision-free shepherding control of a single target within a swarm,” in <em>2023 IEEE International Conference on Systems, Man, and Cybernetics</em>, pp. 5218-5223, 2023.
-
-![Illustration](/assets/illust_smc.png){:width="35%"}
-
-A. Li, “Swarm control approach combining leader and predator agents,” in <em>4th IEEE International Conference on Autonomic Computing and Self-Organizing Systems</em>, <em>Doctoral Symposium</em>, pp. 19-20, 2023.
 
 A. Li, et al., “Semi-autonomous leader-follower approach for swarm drone guidance,” <em>第36回自律分散システム・シンポジウム</em>, pp. 1C2-4, 2024.
 
@@ -64,6 +60,12 @@ A. Li, et al., “Semi-autonomous leader-follower approach for swarm drone guida
 Online shepherding interactive unity-based game: [link](https://www-waka.ist.osaka-u.ac.jp/game/)
 
 ![Illustration](/assets/illust_game.png){:width="35%"}
+
+Y. Deng, A. Li, M. Ogura and N. Wakamiya, “Collision-free shepherding control of a single target within a swarm,” in <em>2023 IEEE International Conference on Systems, Man, and Cybernetics</em>, pp. 5218-5223, 2023.
+
+![Illustration](/assets/illust_smc.png){:width="35%"}
+
+A. Li, “Swarm control approach combining leader and predator agents,” in <em>4th IEEE International Conference on Autonomic Computing and Self-Organizing Systems</em>, <em>Doctoral Symposium</em>, pp. 19-20, 2023.
 
 ## Grants
 
