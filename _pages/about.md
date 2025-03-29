@@ -29,8 +29,8 @@ My research has focused on swarm guidance and shepherding problem. I am currentl
 ![Illustration](/assets/illust_frontiers.jpg){:width="35%"}
 4. Unity-based Interactive Shepherding Game: [link](https://www-waka.ist.osaka-u.ac.jp/game/). <br> 
 ![Illustration](/assets/illust_game.png){:width="35%"}
-5. Semi-autonomous leader-follower approach for swarm drone guidance, <em>第36回自律分散システム・シンポジウム</em>, 2024. <br> 
+5. Semi-autonomous Leader-follower Approach for Swarm Drone Guidance, <em>第36回自律分散システム・シンポジウム</em>, 2024. <br> 
 ![Illustration](/assets/illust_dars.png){:width="35%"}
-6. Automatic recording of rare behaviors of wild animals using video bio-loggers with on-board light-weight outlier detector," <em>PNAS Nexus</em>, 2024. <br> 
+6. Automatic Recording of Wild Animals using Video Bio-loggers with On-board Light-weight Outlier Detector," <em>PNAS Nexus</em>, 2024. <br> 
 ![Illustration](/assets/illust_pnas.jpg){:width="35%"}
 
