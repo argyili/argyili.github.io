@@ -27,7 +27,7 @@ My research has focused on swarm guidance and shepherding problem. I am currentl
 ![Illustration](/assets/illust_rs.jpg){:width="35%"}
 3. Communication-free Shepherding Navigation with Multiple Steering Agents, <em>Frontiers in Control Engineering</em>, 2023. <br> 
 ![Illustration](/assets/illust_frontiers.jpg){:width="35%"}
-4. Unity-based Interactive Shepherding Game: [link](https://www-waka.ist.osaka-u.ac.jp/game/). <br> 
+4. Unity-based Interactive Shepherding Game: [link](https://www-waka.ist.osaka-u.ac.jp/game/), 2022. <br> 
 ![Illustration](/assets/illust_game.png){:width="35%"}
 5. Semi-autonomous Leader-follower Approach for Swarm Drone Guidance, <em>第36回自律分散システム・シンポジウム</em>, 2024. <br> 
 ![Illustration](/assets/illust_dars.png){:width="35%"}
